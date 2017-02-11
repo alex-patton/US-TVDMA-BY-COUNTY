@@ -1,18 +1,30 @@
 STATE,STATE_AB,COUNTY,Internal_State_Region,TVDMA,Metropolitan_Statistical_Areas,Metro_Grp
-NEVADA,UT,CHURCHILL,Pony Express Territory ISR," Reno, NV - CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
-NEVADA,UT,CLARK,Las Vegas Territory ISR," Las Vegas, NV DMA"," Las Vegas, NV - AZ MSA", Las Vegas Metro GMR.
-NEVADA,UT,DOUGLAS,Reno-Tahoe Territory ISR," Reno, NV - CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
-NEVADA,UT,ELKO,Cowboy Country ISR," Salt Lake City, UT - ID - WY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
-NEVADA,UT,ESMERALDA,Pioneer Territory ISR," Reno, NV - CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
-NEVADA,UT,EUREKA,Pony Express Territory ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
-NEVADA,UT,HUMBOLDT,Cowboy Country ISR," Reno, NV - CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
-NEVADA,UT,LANDER,Pony Express Territory ISR," Reno, NV - CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
-NEVADA,UT,LINCOLN,Pioneer Territory ISR," Las Vegas, NV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
-NEVADA,UT,LYON,Pioneer Territory ISR," Reno, NV - CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
-NEVADA,UT,MINERAL,Pioneer Territory ISR," Reno, NV - CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
-NEVADA,UT,NYE,Pioneer Territory ISR," Las Vegas, NV DMA"," Las Vegas, NV - AZ MSA", Las Vegas Metro GMR.
-NEVADA,UT,PERSHING,Cowboy Country ISR," Reno, NV - CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
-NEVADA,UT,STOREY,Reno-Tahoe Territory ISR," Reno, NV - CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
-NEVADA,UT,WASHOE,Reno-Tahoe Territory ISR," Reno, NV - CA DMA"," Reno, NV MSA", Other Metro GMR.
-NEVADA,UT,WHITE PINE,Pony Express Territory ISR," Salt Lake City, UT - ID - WY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
-NEVADA,UT,CARSON CITY,Reno-Tahoe Territory ISR," Reno, NV - CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+UTAH,UT,BEAVER,Color Country,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,BOX ELDER,Golden Spike Empire,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,CACHE,Bridgerland,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,CARBON,Caynonlands,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,DAGGETT,Dinosaurland,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,DAVIS,Golden Spike Empire,"Salt Lake City, UT - ID - WY DMA","Salt Lake City - Ogden, UT MSA",Salt Lake Metro
+UTAH,UT,DUCHESNE,Dinosaurland,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,EMERY,Caynonlands,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,GARFIELD,Color Country,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,GRAND,Caynonlands,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,IRON,Color Country,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,JUAB,Panoramoland,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,KANE,Color Country,"Salt Lake City, UT - ID - WY DMA","Flagstaff, AZ - UT MSA",Other Metro
+UTAH,UT,MILLARD,Panoramoland,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,MORGAN,Golden Spike Empire,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,PIUTE,Panoramoland,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,RICH,Bridgerland,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,SALT LAKE,Great Salt Lake Country,"Salt Lake City, UT - ID - WY DMA","Salt Lake City - Ogden, UT MSA",Salt Lake Metro
+UTAH,UT,SAN JUAN,Caynonlands,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,SANPETE,Panoramoland,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,SEVIER,Panoramoland,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,SUMMIT,Mountainland,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,TOOELE,Great Salt Lake Country,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,UINTAH,Dinosaurland,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,UTAH,Mountainland,"Salt Lake City, UT - ID - WY DMA","Provo - Orem, UT MSA",Other Metro
+UTAH,UT,WASATCH,Mountainland,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,WASHINGTON,Color Country,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,WAYNE,Panoramoland,"Salt Lake City, UT - ID - WY DMA",Not Assigned to Metro Area (NAM),Non Metro
+UTAH,UT,WEBER,Golden Spike Empire,"Salt Lake City, UT - ID - WY DMA","Salt Lake City - Ogden, UT MSA",Salt Lake Metro
