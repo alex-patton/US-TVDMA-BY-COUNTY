@@ -1,0 +1,68 @@
+STATE,STATE_AB,COUNTY,Internal_State_Region,TVDMA,Metropolitan_Statistical_Areas,Metro_Grp
+PENNSYLVANIA,PA,ADAMS,Hershey/Dutch Country ISR," Harrisburg - Lancaster - Lebanon - York, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,ALLEGHENY,Pittsburgh Area ISR," Pittsburgh, PA - MD- WV DMA"," Pittsburgh, PA MSA", Pittsburgh Metro GMR.
+PENNSYLVANIA,PA,ARMSTRONG,Pittsburgh Area ISR," Pittsburgh, PA - MD- WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,BEAVER,Pittsburgh Area ISR," Pittsburgh, PA - MD- WV DMA"," Pittsburgh, PA MSA", Pittsburgh Metro GMR.
+PENNSYLVANIA,PA,BEDFORD,Laurel Highlands/So.Alleghenies ISR," Johnstown - Altoona, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,BERKS,Hershey/Dutch Country ISR," Philadelphia, PA - DE - NJ DMA"," Reading, PA MSA", Other Metro GMR.
+PENNSYLVANIA,PA,BLAIR,Laurel Highlands/So.Alleghenies ISR," Johnstown - Altoona, PA DMA"," Altoona, PA MSA", Other Metro GMR.
+PENNSYLVANIA,PA,BRADFORD,Pocono Mountains ISR," Wilkes Barre - Scranton, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,BUCKS,Philadelphia Area ISR," Philadelphia, PA - DE - NJ DMA"," Philadelphia, PA - NJ PMSA", Philadelphia Suburbs GMR.
+PENNSYLVANIA,PA,BUTLER,Pittsburgh Area ISR," Pittsburgh, PA - MD- WV DMA"," Pittsburgh, PA MSA", Other Metro GMR.
+PENNSYLVANIA,PA,CAMBRIA,Laurel Highlands/So.Alleghenies ISR," Johnstown - Altoona, PA DMA"," Johnstown, PA MSA", Other Metro GMR.
+PENNSYLVANIA,PA,CAMERON,Allegheny National Forest ISR," Johnstown - Altoona, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,CARBON,Pocono Mountains ISR," Wilkes Barre - Scranton, PA DMA"," Allentown - Bethlehem - Easton, PA MSA", Other Metro GMR.
+PENNSYLVANIA,PA,CENTRE,Valleys of the Susquehanna ISR," Johnstown - Altoona, PA DMA"," State College, PA MSA", Other Metro GMR.
+PENNSYLVANIA,PA,CHESTER,Philadelphia Area ISR," Philadelphia, PA - DE - NJ DMA"," Philadelphia, PA - NJ PMSA", Philadelphia Suburbs GMR.
+PENNSYLVANIA,PA,CLARION,Allegheny National Forest ISR," Pittsburgh, PA - MD- WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,CLEARFIELD,Allegheny National Forest ISR," Johnstown - Altoona, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,CLINTON,Valleys of the Susquehanna ISR," Wilkes Barre - Scranton, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,COLUMBIA,Valleys of the Susquehanna ISR," Wilkes Barre - Scranton, PA DMA"," Scranton - Wilkes-Barre - Hazleton, PA MSA", Wilkes-Barre/Scranton GMR.
+PENNSYLVANIA,PA,CRAWFORD,Lake Erie ISR," Erie, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,CUMBERLAND,Hershey/Dutch Country ISR," Harrisburg - Lancaster - Lebanon - York, PA DMA"," Harrisburg - Lebanon - Carlisle, PA MSA", Other Metro GMR.
+PENNSYLVANIA,PA,DAUPHIN,Hershey/Dutch Country ISR," Harrisburg - Lancaster - Lebanon - York, PA DMA"," Harrisburg - Lebanon - Carlisle, PA MSA", Other Metro GMR.
+PENNSYLVANIA,PA,DELAWARE,Philadelphia Area ISR," Philadelphia, PA - DE - NJ DMA"," Philadelphia, PA - NJ PMSA", Philadelphia Suburbs GMR.
+PENNSYLVANIA,PA,ELK,Allegheny National Forest ISR," Johnstown - Altoona, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,ERIE,Lake Erie ISR," Erie, PA DMA"," Erie, PA MSA", Other Metro GMR.
+PENNSYLVANIA,PA,FAYETTE,Laurel Highlands/So.Alleghenies ISR," Pittsburgh, PA - MD- WV DMA"," Pittsburgh, PA MSA", Pittsburgh Metro GMR.
+PENNSYLVANIA,PA,FOREST,Allegheny National Forest ISR," Johnstown - Altoona, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,FRANKLIN,Hershey/Dutch Country ISR," Washington, DC - MD - PA - VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,FULTON,Laurel Highlands/So.Alleghenies ISR," Washington, DC - MD - PA - VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,GREENE,Laurel Highlands/So.Alleghenies ISR," Pittsburgh, PA - MD- WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,HUNTINGDON,Laurel Highlands/So.Alleghenies ISR," Johnstown - Altoona, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,INDIANA,Laurel Highlands/So.Alleghenies ISR," Pittsburgh, PA - MD- WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,JEFFERSON,Allegheny National Forest ISR," Johnstown - Altoona, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,JUNIATA,Valleys of the Susquehanna ISR," Harrisburg - Lancaster - Lebanon - York, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,LACKAWANNA,Pocono Mountains ISR," Wilkes Barre - Scranton, PA DMA"," Scranton - Wilkes-Barre - Hazleton, PA MSA", Wilkes-Barre/Scranton GMR.
+PENNSYLVANIA,PA,LANCASTER,Hershey/Dutch Country ISR," Harrisburg - Lancaster - Lebanon - York, PA DMA"," Lancaster, PA MSA", Other Metro GMR.
+PENNSYLVANIA,PA,LAWRENCE,Pittsburgh Area ISR," Pittsburgh, PA - MD- WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,LEBANON,Hershey/Dutch Country ISR," Harrisburg - Lancaster - Lebanon - York, PA DMA"," Harrisburg - Lebanon - Carlisle, PA MSA", Other Metro GMR.
+PENNSYLVANIA,PA,LEHIGH,Philadelphia Area ISR," Philadelphia, PA - DE - NJ DMA"," Allentown - Bethlehem - Easton, PA MSA", Other Metro GMR.
+PENNSYLVANIA,PA,LUZERNE,Pocono Mountains ISR," Wilkes Barre - Scranton, PA DMA"," Scranton - Wilkes-Barre - Hazleton, PA MSA", Wilkes-Barre/Scranton GMR.
+PENNSYLVANIA,PA,LYCOMING,Valleys of the Susquehanna ISR," Wilkes Barre - Scranton, PA DMA"," Williamsport, PA MSA", Other Metro GMR.
+PENNSYLVANIA,PA,MCKEAN,Allegheny National Forest ISR," Buffalo, NY - PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,MERCER,Lake Erie ISR," Youngstown, OH - PA DMA"," Sharon, PA MSA", Other Metro GMR.
+PENNSYLVANIA,PA,MIFFLIN,Valleys of the Susquehanna ISR," Harrisburg - Lancaster - Lebanon - York, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,MONROE,Pocono Mountains ISR," Wilkes Barre - Scranton, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,MONTGOMERY,Philadelphia Area ISR," Philadelphia, PA - DE - NJ DMA"," Philadelphia, PA - NJ PMSA", Philadelphia Suburbs GMR.
+PENNSYLVANIA,PA,MONTOUR,Valleys of the Susquehanna ISR," Wilkes Barre - Scranton, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,NORTHAMPTON,Philadelphia Area ISR," Philadelphia, PA - DE - NJ DMA"," Allentown - Bethlehem - Easton, PA MSA", Other Metro GMR.
+PENNSYLVANIA,PA,NORTHUMBERLAND,Valleys of the Susquehanna ISR," Wilkes Barre - Scranton, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,PERRY,Valleys of the Susquehanna ISR," Harrisburg - Lancaster - Lebanon - York, PA DMA"," Harrisburg - Lebanon - Carlisle, PA MSA", Other Metro GMR.
+PENNSYLVANIA,PA,PHILADELPHIA,Philadelphia Area ISR," Philadelphia, PA - DE - NJ DMA"," Philadelphia, PA - NJ PMSA", Philadelphia City/County GMR.
+PENNSYLVANIA,PA,PIKE,Pocono Mountains ISR," New York, NY - CT - NJ - PA DMA"," Newburgh, NY - PA PMSA", Other Metro GMR.
+PENNSYLVANIA,PA,POTTER,Allegheny National Forest ISR," Buffalo, NY - PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,SCHUYLKILL,Pocono Mountains ISR," Wilkes Barre - Scranton, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,SNYDER,Valleys of the Susquehanna ISR," Wilkes Barre - Scranton, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,SOMERSET,Laurel Highlands/So.Alleghenies ISR," Johnstown - Altoona, PA DMA"," Johnstown, PA MSA", Other Metro GMR.
+PENNSYLVANIA,PA,SULLIVAN,Pocono Mountains ISR," Wilkes Barre - Scranton, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,SUSQUEHANNA,Pocono Mountains ISR," Wilkes Barre - Scranton, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,TIOGA,Allegheny National Forest ISR," Elmira, NY - PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,UNION,Valleys of the Susquehanna ISR," Wilkes Barre - Scranton, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,VENANGO,Lake Erie ISR," Pittsburgh, PA - MD- WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,WARREN,Allegheny National Forest ISR," Erie, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,WASHINGTON,Pittsburgh Area ISR," Pittsburgh, PA - MD- WV DMA"," Pittsburgh, PA MSA", Pittsburgh Metro GMR.
+PENNSYLVANIA,PA,WAYNE,Pocono Mountains ISR," Wilkes Barre - Scranton, PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+PENNSYLVANIA,PA,WESTMORELAND,Laurel Highlands/So.Alleghenies ISR," Pittsburgh, PA - MD- WV DMA"," Pittsburgh, PA MSA", Pittsburgh Metro GMR.
+PENNSYLVANIA,PA,WYOMING,Pocono Mountains ISR," Wilkes Barre - Scranton, PA DMA"," Scranton - Wilkes-Barre - Hazleton, PA MSA", Wilkes-Barre/Scranton GMR.
+PENNSYLVANIA,PA,YORK,Hershey/Dutch Country ISR," Harrisburg - Lancaster - Lebanon - York, PA DMA"," York, PA MSA", Other Metro GMR.

@@ -1,0 +1,63 @@
+STATE,STATE_AB,COUNTY,Internal_State_Region,TVDMA,Metropolitan_Statistical_Areas,Metro_Grp
+NEW YORK,NY,ALBANY,Capital-Saratoga ISR," Albany - Schenectady - Troy, NY - MA - VT DMA"," Albany - Schenectady - Troy, NY MSA", Other Metro GMR.
+NEW YORK,NY,ALLEGANY,Chautauqua-Allegheny ISR," Buffalo, NY - PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,BRONX,New York City ISR," New York, NY - CT - NJ - PA DMA"," New York, NY PMSA", NYC-Inner Core GMR.
+NEW YORK,NY,BROOME,Central-Leatherstocking ISR," Binghamton, NY DMA"," Binghamton, NY MSA", Other Metro GMR.
+NEW YORK,NY,CATTARAUGUS,Chautauqua-Allegheny ISR," Buffalo, NY - PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,CAYUGA,Finger Lakes ISR," Syracuse, NY DMA*"," Syracuse, NY MSA", Other Metro GMR.
+NEW YORK,NY,CHAUTAUQUA,Chautauqua-Allegheny ISR," Buffalo, NY - PA DMA"," Jamestown, NY MSA", Other Metro GMR.
+NEW YORK,NY,CHEMUNG,Finger Lakes ISR," Elmira, NY - PA DMA"," Elmira, NY MSA", Other Metro GMR.
+NEW YORK,NY,CHENANGO,Central-Leatherstocking ISR," Binghamton, NY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,CLINTON,The Adirondacks ISR," Burlington, VT - Plattsburgh, NY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,COLUMBIA,Hudson Valley ISR," Albany - Schenectady - Troy, NY - MA - VT DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,CORTLAND,Finger Lakes ISR," Syracuse, NY DMA*", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,DELAWARE,Catskills ISR," Binghamton, NY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,DUTCHESS,Hudson Valley ISR," New York, NY - CT - NJ - PA DMA"," Dutchess County, NY PMSA", Other Metro GMR.
+NEW YORK,NY,ERIE,Niagara Frontier ISR," Buffalo, NY - PA DMA"," Buffalo - Niagara Falls, NY MSA", Buffalo & Rochester Inner GMR.
+NEW YORK,NY,ESSEX,The Adirondacks ISR," Burlington, VT - Plattsburgh, NY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,FRANKLIN,The Adirondacks ISR," Burlington, VT - Plattsburgh, NY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,FULTON,Capital-Saratoga ISR," Albany - Schenectady - Troy, NY - MA - VT DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,GENESEE,Niagara Frontier ISR," Buffalo, NY - PA DMA"," Rochester, NY MSA", Other Metro GMR.
+NEW YORK,NY,GREENE,Catskills ISR," Albany - Schenectady - Troy, NY - MA - VT DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,HAMILTON,The Adirondacks ISR," Albany - Schenectady - Troy, NY - MA - VT DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,HERKIMER,Central-Leatherstocking ISR," Utica, NY DMA*"," Utica - Rome, NY MSA", Other Metro GMR.
+NEW YORK,NY,JEFFERSON,Thousand Islands-Seaway ISR," Watertown, NY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,KINGS,New York City ISR," New York, NY - CT - NJ - PA DMA"," New York, NY PMSA", NYC-Inner Core GMR.
+NEW YORK,NY,LEWIS,The Adirondacks ISR," Watertown, NY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,LIVINGSTON,Finger Lakes ISR," Rochester, NY DMA"," Rochester, NY MSA", Other Metro GMR.
+NEW YORK,NY,MADISON,Central-Leatherstocking ISR," Syracuse, NY DMA*"," Syracuse, NY MSA", Other Metro GMR.
+NEW YORK,NY,MONROE,Finger Lakes ISR," Rochester, NY DMA"," Rochester, NY MSA", Buffalo & Rochester Inner GMR.
+NEW YORK,NY,MONTGOMERY,Central-Leatherstocking ISR," Albany - Schenectady - Troy, NY - MA - VT DMA"," Albany - Schenectady - Troy, NY MSA", Other Metro GMR.
+NEW YORK,NY,NASSAU,Long Island ISR," New York, NY - CT - NJ - PA DMA"," Nassau - Suffolk, NY PMSA", NYC-Islands GMR.
+NEW YORK,NY,NEW YORK,New York City ISR," New York, NY - CT - NJ - PA DMA"," New York, NY PMSA", NYC-Inner Core GMR.
+NEW YORK,NY,NIAGARA,Niagara Frontier ISR," Buffalo, NY - PA DMA"," Buffalo - Niagara Falls, NY MSA", Other Metro GMR.
+NEW YORK,NY,ONEIDA,Central-Leatherstocking ISR," Utica, NY DMA*"," Utica - Rome, NY MSA", Other Metro GMR.
+NEW YORK,NY,ONONDAGA,Finger Lakes ISR," Syracuse, NY DMA*"," Syracuse, NY MSA", Other Metro GMR.
+NEW YORK,NY,ONTARIO,Finger Lakes ISR," Rochester, NY DMA"," Rochester, NY MSA", Other Metro GMR.
+NEW YORK,NY,ORANGE,Hudson Valley ISR," New York, NY - CT - NJ - PA DMA"," Newburgh, NY - PA PMSA", NYC-Metro North GMR.
+NEW YORK,NY,ORLEANS,Niagara Frontier ISR," Buffalo, NY - PA DMA"," Rochester, NY MSA", Other Metro GMR.
+NEW YORK,NY,OSWEGO,Thousand Islands-Seaway ISR," Syracuse, NY DMA*"," Syracuse, NY MSA", Other Metro GMR.
+NEW YORK,NY,OTSEGO,Central-Leatherstocking ISR," Utica, NY DMA*", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,PUTNAM,Hudson Valley ISR," New York, NY - CT - NJ - PA DMA"," New York, NY PMSA", NYC-Metro North GMR.
+NEW YORK,NY,QUEENS,New York City ISR," New York, NY - CT - NJ - PA DMA"," New York, NY PMSA", NYC-Inner Core GMR.
+NEW YORK,NY,RENSSELAER,Capital-Saratoga ISR," Albany - Schenectady - Troy, NY - MA - VT DMA"," Albany - Schenectady - Troy, NY MSA", Other Metro GMR.
+NEW YORK,NY,RICHMOND,New York City ISR," New York, NY - CT - NJ - PA DMA"," New York, NY PMSA", NYC-Islands GMR.
+NEW YORK,NY,ROCKLAND,Hudson Valley ISR," New York, NY - CT - NJ - PA DMA"," New York, NY PMSA", NYC-Metro North GMR.
+NEW YORK,NY,ST LAWRENCE,Thousand Islands-Seaway ISR," Watertown, NY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,SARATOGA,Capital-Saratoga ISR," Albany - Schenectady - Troy, NY - MA - VT DMA"," Albany - Schenectady - Troy, NY MSA", Other Metro GMR.
+NEW YORK,NY,SCHENECTADY,Capital-Saratoga ISR," Albany - Schenectady - Troy, NY - MA - VT DMA"," Albany - Schenectady - Troy, NY MSA", Other Metro GMR.
+NEW YORK,NY,SCHOHARIE,Central-Leatherstocking ISR," Albany - Schenectady - Troy, NY - MA - VT DMA"," Albany - Schenectady - Troy, NY MSA", Other Metro GMR.
+NEW YORK,NY,SCHUYLER,Finger Lakes ISR," Elmira, NY - PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,SENECA,Finger Lakes ISR," Syracuse, NY DMA*", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,STEUBEN,Finger Lakes ISR," Elmira, NY - PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,SUFFOLK,Long Island ISR," New York, NY - CT - NJ - PA DMA"," Nassau - Suffolk, NY PMSA", NYC-Islands GMR.
+NEW YORK,NY,SULLIVAN,Catskills ISR," New York, NY - CT - NJ - PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,TIOGA,Finger Lakes ISR," Binghamton, NY DMA"," Binghamton, NY MSA", Other Metro GMR.
+NEW YORK,NY,TOMPKINS,Finger Lakes ISR," Syracuse, NY DMA*", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,ULSTER,Catskills ISR," New York, NY - CT - NJ - PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,WARREN,The Adirondacks ISR," Albany - Schenectady - Troy, NY - MA - VT DMA"," Glens Falls, NY MSA", Other Metro GMR.
+NEW YORK,NY,WASHINGTON,Capital-Saratoga ISR," Albany - Schenectady - Troy, NY - MA - VT DMA"," Glens Falls, NY MSA", Other Metro GMR.
+NEW YORK,NY,WAYNE,Finger Lakes ISR," Rochester, NY DMA"," Rochester, NY MSA", Other Metro GMR.
+NEW YORK,NY,WESTCHESTER,Hudson Valley ISR," New York, NY - CT - NJ - PA DMA"," New York, NY PMSA", NYC-Metro North GMR.
+NEW YORK,NY,WYOMING,Niagara Frontier ISR," Buffalo, NY - PA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NEW YORK,NY,YATES,Finger Lakes ISR," Rochester, NY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.

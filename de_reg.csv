@@ -1,0 +1,4 @@
+STATE,STATE_AB,COUNTY,Internal_State_Region,TVDMA,Metropolitan_Statistical_Areas,Metro_Grp
+DELAWARE,DE,KENT,Central ISR," Philadelphia, PA - DE - NJ DMA"," Dover, DE MSA", Dover (Kent Co.) GMR.
+DELAWARE,DE,NEW CASTLE,Northern ISR," Philadelphia, PA - DE - NJ DMA"," Wilmington - Newark, DE - MD PMSA", Wilmington (New Castle Co.) GMR.
+DELAWARE,DE,SUSSEX,Southern ISR," Salisbury, MD - DE DMA", Not Assigned to Metro Area (NAM), Non Metro (Sussex Co.) GMR.

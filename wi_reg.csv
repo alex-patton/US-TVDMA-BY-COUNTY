@@ -1,0 +1,73 @@
+STATE,STATE_AB,COUNTY,Internal_State_Region,TVDMA,Metropolitan_Statistical_Areas,Metro_Grp
+WISCONSIN,WI,ADAMS,Central West ISR," Wausau - Rhinelander, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,ASHLAND,Northwoods ISR," Duluth - Superior, MN - MI - WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,BARRON,Central West ISR," Minneapolis - St. Paul, MN - WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,BAYFIELD,Northwoods ISR," Duluth - Superior, MN - MI - WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,BROWN,Central East ISR," Green Bay - Appleton, WI - MI DMA"," Green Bay, WI MSA", Green Bay Metro GMR.
+WISCONSIN,WI,BUFFALO,Central West ISR," LaCrosse - Eau Claire, WI - MN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,BURNETT,Northwoods ISR," Minneapolis - St. Paul, MN - WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,CALUMET,Central East ISR," Green Bay - Appleton, WI - MI DMA"," Appleton - Oshkosh - Neenah, WI MSA", Green Bay Metro GMR.
+WISCONSIN,WI,CHIPPEWA,Central West ISR," LaCrosse - Eau Claire, WI - MN DMA"," Eau Claire, WI MSA", Other Metro GMR.
+WISCONSIN,WI,CLARK,Central West ISR," LaCrosse - Eau Claire, WI - MN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,COLUMBIA,Southwest ISR," Madison, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,CRAWFORD,Southwest ISR," LaCrosse - Eau Claire, WI - MN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,DANE,Southwest ISR," Madison, WI DMA"," Madison, WI MSA", Madison Metro GMR.
+WISCONSIN,WI,DODGE,Southeast ISR," Milwaukee, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,DOOR,Central East ISR," Green Bay - Appleton, WI - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,DOUGLAS,Northwoods ISR," Duluth - Superior, MN - MI - WI DMA"," Duluth - Superior, MN - WI MSA", Other Metro GMR.
+WISCONSIN,WI,DUNN,Central West ISR," Minneapolis - St. Paul, MN - WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,EAU CLAIRE,Central West ISR," LaCrosse - Eau Claire, WI - MN DMA"," Eau Claire, WI MSA", Other Metro GMR.
+WISCONSIN,WI,FLORENCE,Northwoods ISR," Marquette, MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,FOND DU LAC,Central East ISR," Green Bay - Appleton, WI - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,FOREST,Northwoods ISR," Wausau - Rhinelander, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,GRANT,Southwest ISR," Madison, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,GREEN,Southwest ISR," Madison, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,GREEN LAKE,Central East ISR," Green Bay - Appleton, WI - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,IOWA,Southwest ISR," Madison, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,IRON,Northwoods ISR," Duluth - Superior, MN - MI - WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,JACKSON,Central West ISR," LaCrosse - Eau Claire, WI - MN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,JEFFERSON,Southeast ISR," Milwaukee, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,JUNEAU,Central West ISR," Madison, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,KENOSHA,Southeast ISR," Milwaukee, WI DMA"," Kenosha, WI PMSA", Milwaukee Extended GMR.
+WISCONSIN,WI,KEWAUNEE,Central East ISR," Green Bay - Appleton, WI - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,LA CROSSE,Central West ISR," LaCrosse - Eau Claire, WI - MN DMA"," LaCrosse, WI - MN MSA", Other Metro GMR.
+WISCONSIN,WI,LAFAYETTE,Southwest ISR," Madison, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,LANGLADE,Northwoods ISR," Wausau - Rhinelander, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,LINCOLN,Northwoods ISR," Wausau - Rhinelander, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,MANITOWOC,Central East ISR," Green Bay - Appleton, WI - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,MARATHON,Central West ISR," Wausau - Rhinelander, WI DMA"," Wausau, WI MSA", Other Metro GMR.
+WISCONSIN,WI,MARINETTE,Central East ISR," Green Bay - Appleton, WI - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,MARQUETTE,Central East ISR," Madison, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,MENOMINEE,Central East ISR," Green Bay - Appleton, WI - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,MILWAUKEE,Southeast ISR," Milwaukee, WI DMA"," Milwaukee - Waukesha, WI PMSA", Milwaukee Central GMR.
+WISCONSIN,WI,MONROE,Central West ISR," LaCrosse - Eau Claire, WI - MN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,OCONTO,Central East ISR," Green Bay - Appleton, WI - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,ONEIDA,Northwoods ISR," Wausau - Rhinelander, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,OUTAGAMIE,Central East ISR," Green Bay - Appleton, WI - MI DMA"," Appleton - Oshkosh - Neenah, WI MSA", Green Bay Metro GMR.
+WISCONSIN,WI,OZAUKEE,Southeast ISR," Milwaukee, WI DMA"," Milwaukee - Waukesha, WI PMSA", Milwaukee Central GMR.
+WISCONSIN,WI,PEPIN,Central West ISR," Minneapolis - St. Paul, MN - WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,PIERCE,Central West ISR," Minneapolis - St. Paul, MN - WI DMA"," Minneapolis - St. Paul, MN - WI MSA", Other Metro GMR.
+WISCONSIN,WI,POLK,Central West ISR," Minneapolis - St. Paul, MN - WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,PORTAGE,Central West ISR," Wausau - Rhinelander, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,PRICE,Northwoods ISR," Wausau - Rhinelander, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,RACINE,Southeast ISR," Milwaukee, WI DMA"," Racine, WI PMSA", Milwaukee Extended GMR.
+WISCONSIN,WI,RICHLAND,Southwest ISR," Madison, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,ROCK,Southwest ISR," Madison, WI DMA"," Janesville - Beloit, WI MSA", Other Metro GMR.
+WISCONSIN,WI,RUSK,Central West ISR," LaCrosse - Eau Claire, WI - MN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,ST CROIX,Central West ISR," Minneapolis - St. Paul, MN - WI DMA"," Minneapolis - St. Paul, MN - WI MSA", Other Metro GMR.
+WISCONSIN,WI,SAUK,Southwest ISR," Madison, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,SAWYER,Northwoods ISR," Duluth - Superior, MN - MI - WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,SHAWANO,Central East ISR," Green Bay - Appleton, WI - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,SHEBOYGAN,Central East ISR," Milwaukee, WI DMA"," Sheboygan, WI MSA", Milwaukee Extended GMR.
+WISCONSIN,WI,TAYLOR,Central West ISR," Wausau - Rhinelander, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,TREMPEALEAU,Central West ISR," LaCrosse - Eau Claire, WI - MN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,VERNON,Central West ISR," LaCrosse - Eau Claire, WI - MN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,VILAS,Northwoods ISR," Wausau - Rhinelander, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,WALWORTH,Southeast ISR," Milwaukee, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,WASHBURN,Northwoods ISR," Duluth - Superior, MN - MI - WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,WASHINGTON,Southeast ISR," Milwaukee, WI DMA"," Milwaukee - Waukesha, WI PMSA", Milwaukee Central GMR.
+WISCONSIN,WI,WAUKESHA,Southeast ISR," Milwaukee, WI DMA"," Milwaukee - Waukesha, WI PMSA", Milwaukee Central GMR.
+WISCONSIN,WI,WAUPACA,Central East ISR," Green Bay - Appleton, WI - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,WAUSHARA,Central East ISR," Green Bay - Appleton, WI - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WISCONSIN,WI,WINNEBAGO,Central East ISR," Green Bay - Appleton, WI - MI DMA"," Appleton - Oshkosh - Neenah, WI MSA", Green Bay Metro GMR.
+WISCONSIN,WI,WOOD,Central West ISR," Wausau - Rhinelander, WI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.

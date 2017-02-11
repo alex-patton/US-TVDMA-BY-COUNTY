@@ -1,0 +1,40 @@
+STATE,STATE_AB,COUNTY,Internal_State_Region,TVDMA,Metropolitan_Statistical_Areas,Metro_Grp
+WASHINGTON,WA,CLARK,Southern Coast and Mountains ISR," Portland, OR - WA DMA"," Portland - Vancouver, OR - WA PMSA", Other Metro GMR.
+WASHINGTON,WA,COWLITZ,Southern Coast and Mountains ISR," Portland, OR - WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,KLICKITAT,Southern Coast and Mountains ISR," Portland, OR - WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,SKAMANIA,Southern Coast and Mountains ISR," Portland, OR - WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,WAHKIAKUM,Southern Coast and Mountains ISR," Portland, OR - WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,CHELAN,Northeastern ISR," Seattle - Tacoma, WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,CLALLAM,Olympic Peninsula ISR," Seattle - Tacoma, WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,DOUGLAS,Northeastern ISR," Seattle - Tacoma, WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,GRAYS HARBOR,Olympic Peninsula ISR," Seattle - Tacoma, WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,ISLAND,Puget Sound ISR," Seattle - Tacoma, WA DMA"," Seattle - Bellevue - Everett, WA PMSA", Seattle Metro GMR.
+WASHINGTON,WA,JEFFERSON,Olympic Peninsula ISR," Seattle - Tacoma, WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,KING,Puget Sound ISR," Seattle - Tacoma, WA DMA"," Seattle - Bellevue - Everett, WA PMSA", Seattle Metro GMR.
+WASHINGTON,WA,KITSAP,Puget Sound ISR," Seattle - Tacoma, WA DMA"," Bremerton, WA PMSA", Other Metro GMR.
+WASHINGTON,WA,LEWIS,Southern Coast and Mountains ISR," Seattle - Tacoma, WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,MASON,Olympic Peninsula ISR," Seattle - Tacoma, WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,PACIFIC,Southern Coast and Mountains ISR," Seattle - Tacoma, WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,PIERCE,Puget Sound ISR," Seattle - Tacoma, WA DMA"," Tacoma, WA PMSA", Tacoma Metro GMR.
+WASHINGTON,WA,SAN JUAN,Puget Sound ISR," Seattle - Tacoma, WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,SKAGIT,Puget Sound ISR," Seattle - Tacoma, WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,SNOHOMISH,Puget Sound ISR," Seattle - Tacoma, WA DMA"," Seattle - Bellevue - Everett, WA PMSA", Seattle Metro GMR.
+WASHINGTON,WA,THURSTON,Puget Sound ISR," Seattle - Tacoma, WA DMA"," Olympia, WA PMSA", Other Metro GMR.
+WASHINGTON,WA,WHATCOM,Puget Sound ISR," Seattle - Tacoma, WA DMA"," Bellingham, WA MSA", Other Metro GMR.
+WASHINGTON,WA,FERRY,Northeastern ISR," Spokane, WA - ID - MT - OR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,LINCOLN,Northeastern ISR," Spokane, WA - ID - MT - OR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,OKANOGAN,Northeastern ISR," Spokane, WA - ID - MT - OR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,PEND OREILLE,Northeastern ISR," Spokane, WA - ID - MT - OR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,SPOKANE,Northeastern ISR," Spokane, WA - ID - MT - OR DMA"," Spokane, WA MSA", Spokane Metro GMR.
+WASHINGTON,WA,STEVENS,Northeastern ISR," Spokane, WA - ID - MT - OR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,ADAMS,Southeastern Tri-Cities ISR," Spokane, WA - ID - MT - OR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,ASOTIN,Southeastern Tri-Cities ISR," Spokane, WA - ID - MT - OR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,BENTON,Southeastern Tri-Cities ISR," Yakima - Pasco - Richland - Kennewick, WA - OR DMA"," Richland - Kennewick - Pasco, WA MSA", Other Metro GMR.
+WASHINGTON,WA,COLUMBIA,Southeastern Tri-Cities ISR," Spokane, WA - ID - MT - OR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,FRANKLIN,Southeastern Tri-Cities ISR," Yakima - Pasco - Richland - Kennewick, WA - OR DMA"," Richland - Kennewick - Pasco, WA MSA", Other Metro GMR.
+WASHINGTON,WA,GARFIELD,Southeastern Tri-Cities ISR," Spokane, WA - ID - MT - OR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,GRANT,Southeastern Tri-Cities ISR," Spokane, WA - ID - MT - OR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,KITTITAS,Southeastern Tri-Cities ISR," Yakima - Pasco - Richland - Kennewick, WA - OR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,WALLA WALLA,Southeastern Tri-Cities ISR," Yakima - Pasco - Richland - Kennewick, WA - OR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,WHITMAN,Southeastern Tri-Cities ISR," Spokane, WA - ID - MT - OR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+WASHINGTON,WA,YAKIMA,Southern Coast and Mountains ISR," Yakima - Pasco - Richland - Kennewick, WA - OR DMA"," Yakima, WA MSA", Other Metro GMR.

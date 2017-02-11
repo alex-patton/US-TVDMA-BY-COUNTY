@@ -1,0 +1,37 @@
+STATE,STATE_AB,COUNTY,Internal_State_Region,TVDMA,Metropolitan_Statistical_Areas,Metro_Grp
+OREGON,OR,BAKER,Eastern ISR," Portland, OR - WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,BENTON,Willamette Valley* ISR," Eugene, OR DMA"," Corvallis, OR MSA", Other Metro GMR.
+OREGON,OR,CLACKAMAS,Greater Portland* ISR," Portland, OR - WA DMA"," Portland - Vancouver, OR - WA PMSA", Portland Metro GMR.
+OREGON,OR,CLATSOP,No. Oregon Coast ISR," Portland, OR - WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,COLUMBIA,Greater Portland* ISR," Portland, OR - WA DMA"," Portland - Vancouver, OR - WA PMSA", Portland Metro GMR.
+OREGON,OR,COOS,So. Oregon Coast* ISR," Eugene, OR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,CROOK,Central ISR," Portland, OR - WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,CURRY,So. Oregon Coast* ISR," Medford - Klamath Falls, OR - CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,DESCHUTES,Central ISR," Bend, OR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,DOUGLAS,Southern* ISR," Eugene, OR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,GILLIAM,Eastern ISR," Portland, OR - WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,GRANT,Eastern ISR," Boise, ID - OR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,HARNEY,Eastern ISR," Portland, OR - WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,HOOD RIVER,Greater Portland* ISR," Portland, OR - WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,JACKSON,Southern* ISR," Medford - Klamath Falls, OR - CA DMA"," Medford - Ashland, OR MSA", Other Metro GMR.
+OREGON,OR,JEFFERSON,Central ISR," Portland, OR - WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,JOSEPHINE,Southern* ISR," Medford - Klamath Falls, OR - CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,KLAMATH,Southern* ISR," Medford - Klamath Falls, OR - CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,LAKE,Eastern ISR," Medford - Klamath Falls, OR - CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,LANE,Willamette Valley* ISR," Eugene, OR DMA"," Eugene - Springfield, OR MSA", Eugene Metro GMR.
+OREGON,OR,LINCOLN,No. Oregon Coast ISR," Portland, OR - WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,LINN,Willamette Valley* ISR," Portland, OR - WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,MALHEUR,Eastern ISR," Boise, ID - OR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,MARION,Willamette Valley* ISR," Portland, OR - WA DMA"," Salem, OR PMSA", Salem Metro GMR.
+OREGON,OR,MORROW,Eastern ISR," Yakima - Pasco - Richland - Kennewick, WA - OR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,MULTNOMAH,Greater Portland* ISR," Portland, OR - WA DMA"," Portland - Vancouver, OR - WA PMSA", Portland Metro GMR.
+OREGON,OR,POLK,Willamette Valley* ISR," Portland, OR - WA DMA"," Salem, OR PMSA", Salem Metro GMR.
+OREGON,OR,SHERMAN,Central ISR," Portland, OR - WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,TILLAMOOK,No. Oregon Coast ISR," Portland, OR - WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,UMATILLA,Eastern ISR," Yakima - Pasco - Richland - Kennewick, WA - OR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,UNION,Eastern ISR," Portland, OR - WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,WALLOWA,Eastern ISR," Spokane, WA - ID - MT - OR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,WASCO,Central ISR," Portland, OR - WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,WASHINGTON,Greater Portland* ISR," Portland, OR - WA DMA"," Portland - Vancouver, OR - WA PMSA", Portland Metro GMR.
+OREGON,OR,WHEELER,Eastern ISR," Portland, OR - WA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OREGON,OR,YAMHILL,Willamette Valley* ISR," Portland, OR - WA DMA"," Portland - Vancouver, OR - WA PMSA", Portland Metro GMR.

@@ -1,0 +1,25 @@
+STATE,STATE_AB,COUNTY,Internal_State_Region,TVDMA,Metropolitan_Statistical_Areas,Metro_Grp
+MARYLAND,MD,ALLEGANY,Western Maryland ISR," Washington, DC - MD - PA - VA - WV DMA"," Cumberland, MD - WV MSA", Other Metro GMR.
+MARYLAND,MD,ANNE ARUNDEL,Central Maryland ISR," Baltimore, MD DMA"," Baltimore, MD PMSA", Other Metro GMR.
+MARYLAND,MD,BALTIMORE,Central Maryland ISR," Baltimore, MD DMA"," Baltimore, MD PMSA", Baltimore City & Co. GMR.
+MARYLAND,MD,CALVERT,Southern Maryland ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA", Other Metro GMR.
+MARYLAND,MD,CAROLINE,Chesapeake Country ISR," Baltimore, MD DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+MARYLAND,MD,CARROLL,Central Maryland ISR," Baltimore, MD DMA"," Baltimore, MD PMSA", Other Metro GMR.
+MARYLAND,MD,CECIL,Central Maryland ISR," Baltimore, MD DMA"," Wilmington - Newark, DE - MD PMSA", Other Metro GMR.
+MARYLAND,MD,CHARLES,Southern Maryland ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA", Other Metro GMR.
+MARYLAND,MD,DORCHESTER,Southern Eastern Shore ISR," Baltimore, MD DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+MARYLAND,MD,FREDERICK,Greater Washington ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA", Other Metro GMR.
+MARYLAND,MD,GARRETT,Western Maryland ISR," Pittsburgh, PA - MD- WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+MARYLAND,MD,HARFORD,Central Maryland ISR," Baltimore, MD DMA"," Baltimore, MD PMSA", Other Metro GMR.
+MARYLAND,MD,HOWARD,Central Maryland ISR," Baltimore, MD DMA"," Baltimore, MD PMSA", Other Metro GMR.
+MARYLAND,MD,KENT,Chesapeake Country ISR," Baltimore, MD DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+MARYLAND,MD,MONTGOMERY,Greater Washington ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA", DC Inner Burbs GMR.
+MARYLAND,MD,PRINCE GEORGES,Greater Washington ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA", DC Inner Burbs GMR.
+MARYLAND,MD,QUEEN ANNES,Chesapeake Country ISR," Baltimore, MD DMA"," Baltimore, MD PMSA", Other Metro GMR.
+MARYLAND,MD,ST MARYS,Southern Maryland ISR," Washington, DC - MD - PA - VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+MARYLAND,MD,SOMERSET,Southern Eastern Shore ISR," Salisbury, MD - DE DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+MARYLAND,MD,TALBOT,Chesapeake Country ISR," Baltimore, MD DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+MARYLAND,MD,WASHINGTON,Western Maryland ISR," Washington, DC - MD - PA - VA - WV DMA"," Hagerstown, MD PMSA", Other Metro GMR.
+MARYLAND,MD,WICOMICO,Southern Eastern Shore ISR," Salisbury, MD - DE DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+MARYLAND,MD,WORCESTER,Southern Eastern Shore ISR," Salisbury, MD - DE DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+MARYLAND,MD,BALTIMORE CITY,Central Maryland ISR," Baltimore, MD DMA"," Baltimore, MD PMSA", Baltimore City & Co. GMR.

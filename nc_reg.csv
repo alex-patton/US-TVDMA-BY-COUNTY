@@ -1,0 +1,101 @@
+STATE,STATE_AB,COUNTY,Internal_State_Region,TVDMA,Metropolitan_Statistical_Areas,Metro_Grp
+NORTH CAROLINA,NC,ALAMANCE,Northern Foothills ISR," Greensboro - H.Point - W.Salem, NC - VA DMA"," Greensboro - Winston-Salem - High Point, NC MSA", Greensboro-WS-HP Metro GMR.
+NORTH CAROLINA,NC,ALEXANDER,Northern Mountains ISR," Charlotte, NC - SC DMA"," Hickory - Morganton - Lenoir, NC MSA", Other Metro GMR.
+NORTH CAROLINA,NC,ALLEGHANY,Northern Mountains ISR," Greensboro - H.Point - W.Salem, NC - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,ANSON,Southern Foothills ISR," Charlotte, NC - SC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,ASHE,Northern Mountains ISR," Charlotte, NC - SC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,AVERY,Northern Mountains ISR," Charlotte, NC - SC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,BEAUFORT,Central Coast ISR," Greenville - New Bern - Washington, NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,BERTIE,Northern Coast ISR," Greenville - New Bern - Washington, NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,BLADEN,Southern Coast ISR," Wilmington, NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,BRUNSWICK,Southern Coast ISR," Wilmington, NC DMA"," Wilmington, NC MSA", Other Metro GMR.
+NORTH CAROLINA,NC,BUNCOMBE,Central Mountains ISR," Greenville - Spartanburg, SC- Asheville - And., NC - GA  DMA"," Asheville, NC MSA", Other Metro GMR.
+NORTH CAROLINA,NC,BURKE,Northern Mountains ISR," Charlotte, NC - SC DMA"," Hickory - Morganton - Lenoir, NC MSA", Other Metro GMR.
+NORTH CAROLINA,NC,CABARRUS,Southern Foothills ISR," Charlotte, NC - SC DMA"," Charlotte - Gastonia - Rock Hill, NC - SC MSA", Charlotte Metro GMR.
+NORTH CAROLINA,NC,CALDWELL,Northern Mountains ISR," Charlotte, NC - SC DMA"," Hickory - Morganton - Lenoir, NC MSA", Other Metro GMR.
+NORTH CAROLINA,NC,CAMDEN,Northern Coast ISR," Norfolk - Portsmouth - Newport News, VA - NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,CARTERET,Central Coast ISR," Greenville - New Bern - Washington, NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,CASWELL,Northern Foothills ISR," Greensboro - H.Point - W.Salem, NC - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,CATAWBA,Southern Foothills ISR," Charlotte, NC - SC DMA"," Hickory - Morganton - Lenoir, NC MSA", Other Metro GMR.
+NORTH CAROLINA,NC,CHATHAM,Northern Heartland ISR," Raleigh - Durham, NC - VA DMA"," Raleigh - Durham - Chapel Hill, NC MSA", Research Triangle Metro GMR.
+NORTH CAROLINA,NC,CHEROKEE,Southern Mountains ISR," Chattanooga, TN - GA - NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,CHOWAN,Northern Coast ISR," Norfolk - Portsmouth - Newport News, VA - NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,CLAY,Southern Mountains ISR," Atlanta, GA - AL - NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,CLEVELAND,Southern Foothills ISR," Charlotte, NC - SC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,COLUMBUS,Southern Coast ISR," Wilmington, NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,CRAVEN,Central Coast ISR," Greenville - New Bern - Washington, NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,CUMBERLAND,Southern Heartland ISR," Raleigh - Durham, NC - VA DMA"," Fayetteville, NC MSA", Other Metro GMR.
+NORTH CAROLINA,NC,CURRITUCK,Northern Coast ISR," Norfolk - Portsmouth - Newport News, VA - NC DMA"," Norfolk - Virginia Beach - Newport News, VA - NC MSA", Other Metro GMR.
+NORTH CAROLINA,NC,DARE,Northern Coast ISR," Norfolk - Portsmouth - Newport News, VA - NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,DAVIDSON,Northern Foothills ISR," Greensboro - H.Point - W.Salem, NC - VA DMA"," Greensboro - Winston-Salem - High Point, NC MSA", Greensboro-WS-HP Metro GMR.
+NORTH CAROLINA,NC,DAVIE,Northern Foothills ISR," Greensboro - H.Point - W.Salem, NC - VA DMA"," Greensboro - Winston-Salem - High Point, NC MSA", Greensboro-WS-HP Metro GMR.
+NORTH CAROLINA,NC,DUPLIN,Southern Coast ISR," Greenville - New Bern - Washington, NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,DURHAM,Northern Heartland ISR," Raleigh - Durham, NC - VA DMA"," Raleigh - Durham - Chapel Hill, NC MSA", Research Triangle Metro GMR.
+NORTH CAROLINA,NC,EDGECOMBE,Northern Heartland ISR," Raleigh - Durham, NC - VA DMA"," Rocky Mount, NC MSA", Research Triangle Metro GMR.
+NORTH CAROLINA,NC,FORSYTH,Northern Foothills ISR," Greensboro - H.Point - W.Salem, NC - VA DMA"," Greensboro - Winston-Salem - High Point, NC MSA", Greensboro-WS-HP Metro GMR.
+NORTH CAROLINA,NC,FRANKLIN,Northern Heartland ISR," Raleigh - Durham, NC - VA DMA"," Raleigh - Durham - Chapel Hill, NC MSA", Research Triangle Metro GMR.
+NORTH CAROLINA,NC,GASTON,Southern Foothills ISR," Charlotte, NC - SC DMA"," Charlotte - Gastonia - Rock Hill, NC - SC MSA", Charlotte Metro GMR.
+NORTH CAROLINA,NC,GATES,Northern Coast ISR," Norfolk - Portsmouth - Newport News, VA - NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,GRAHAM,Southern Mountains ISR," Greenville - Spartanburg, SC- Asheville - And., NC - GA  DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,GRANVILLE,Northern Heartland ISR," Raleigh - Durham, NC - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,GREENE,Northern Heartland ISR," Greenville - New Bern - Washington, NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,GUILFORD,Northern Foothills ISR," Greensboro - H.Point - W.Salem, NC - VA DMA"," Greensboro - Winston-Salem - High Point, NC MSA", Greensboro-WS-HP Metro GMR.
+NORTH CAROLINA,NC,HALIFAX,Northern Heartland ISR," Raleigh - Durham, NC - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,HARNETT,Southern Heartland ISR," Raleigh - Durham, NC - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,HAYWOOD,Southern Mountains ISR," Greenville - Spartanburg, SC- Asheville - And., NC - GA  DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,HENDERSON,Central Mountains ISR," Greenville - Spartanburg, SC- Asheville - And., NC - GA  DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,HERTFORD,Northern Coast ISR," Norfolk - Portsmouth - Newport News, VA - NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,HOKE,Southern Heartland ISR," Raleigh - Durham, NC - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,HYDE,Northern Coast ISR," Greenville - New Bern - Washington, NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,IREDELL,Southern Foothills ISR," Charlotte, NC - SC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,JACKSON,Southern Mountains ISR," Greenville - Spartanburg, SC- Asheville - And., NC - GA  DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,JOHNSTON,Northern Heartland ISR," Raleigh - Durham, NC - VA DMA"," Raleigh - Durham - Chapel Hill, NC MSA", Research Triangle Metro GMR.
+NORTH CAROLINA,NC,JONES,Central Coast ISR," Greenville - New Bern - Washington, NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,LEE,Southern Heartland ISR," Raleigh - Durham, NC - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,LENOIR,Northern Heartland ISR," Greenville - New Bern - Washington, NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,LINCOLN,Southern Foothills ISR," Charlotte, NC - SC DMA"," Charlotte - Gastonia - Rock Hill, NC - SC MSA", Charlotte Metro GMR.
+NORTH CAROLINA,NC,MCDOWELL,Central Mountains ISR," Greenville - Spartanburg, SC- Asheville - And., NC - GA  DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,MACON,Southern Mountains ISR," Greenville - Spartanburg, SC- Asheville - And., NC - GA  DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,MADISON,Central Mountains ISR," Greenville - Spartanburg, SC- Asheville - And., NC - GA  DMA"," Asheville, NC MSA", Other Metro GMR.
+NORTH CAROLINA,NC,MARTIN,Northern Coast ISR," Greenville - New Bern - Washington, NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,MECKLENBURG,Southern Foothills ISR," Charlotte, NC - SC DMA"," Charlotte - Gastonia - Rock Hill, NC - SC MSA", Charlotte Metro GMR.
+NORTH CAROLINA,NC,MITCHELL,Northern Mountains ISR," Greenville - Spartanburg, SC- Asheville - And., NC - GA  DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,MONTGOMERY,Southern Heartland ISR," Greensboro - H.Point - W.Salem, NC - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,MOORE,Southern Heartland ISR," Raleigh - Durham, NC - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,NASH,Northern Heartland ISR," Raleigh - Durham, NC - VA DMA"," Rocky Mount, NC MSA", Research Triangle Metro GMR.
+NORTH CAROLINA,NC,NEW HANOVER,Southern Coast ISR," Wilmington, NC DMA"," Wilmington, NC MSA", Other Metro GMR.
+NORTH CAROLINA,NC,NORTHAMPTON,Northern Heartland ISR," Raleigh - Durham, NC - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,ONSLOW,Southern Coast ISR," Greenville - New Bern - Washington, NC DMA"," Jacksonville, NC MSA", Other Metro GMR.
+NORTH CAROLINA,NC,ORANGE,Northern Heartland ISR," Raleigh - Durham, NC - VA DMA"," Raleigh - Durham - Chapel Hill, NC MSA", Research Triangle Metro GMR.
+NORTH CAROLINA,NC,PAMLICO,Central Coast ISR," Greenville - New Bern - Washington, NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,PASQUOTANK,Northern Coast ISR," Norfolk - Portsmouth - Newport News, VA - NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,PENDER,Southern Coast ISR," Wilmington, NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,PERQUIMANS,Northern Coast ISR," Norfolk - Portsmouth - Newport News, VA - NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,PERSON,Northern Heartland ISR," Raleigh - Durham, NC - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,PITT,Central Coast ISR," Greenville - New Bern - Washington, NC DMA"," Greenville, NC MSA", Other Metro GMR.
+NORTH CAROLINA,NC,POLK,Central Mountains ISR," Greenville - Spartanburg, SC- Asheville - And., NC - GA  DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,RANDOLPH,Northern Foothills ISR," Greensboro - H.Point - W.Salem, NC - VA DMA"," Greensboro - Winston-Salem - High Point, NC MSA", Greensboro-WS-HP Metro GMR.
+NORTH CAROLINA,NC,RICHMOND,Southern Heartland ISR," Charlotte, NC - SC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,ROBESON,Southern Heartland ISR," Florence - Myrtle Beach, SC - NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,ROCKINGHAM,Northern Foothills ISR," Greensboro - H.Point - W.Salem, NC - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,ROWAN,Southern Foothills ISR," Charlotte, NC - SC DMA"," Charlotte - Gastonia - Rock Hill, NC - SC MSA", Charlotte Metro GMR.
+NORTH CAROLINA,NC,RUTHERFORD,Central Mountains ISR," Greenville - Spartanburg, SC- Asheville - And., NC - GA  DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,SAMPSON,Southern Heartland ISR," Raleigh - Durham, NC - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,SCOTLAND,Southern Heartland ISR," Florence - Myrtle Beach, SC - NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,STANLY,Southern Foothills ISR," Charlotte, NC - SC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,STOKES,Northern Foothills ISR," Greensboro - H.Point - W.Salem, NC - VA DMA"," Greensboro - Winston-Salem - High Point, NC MSA", Greensboro-WS-HP Metro GMR.
+NORTH CAROLINA,NC,SURRY,Northern Foothills ISR," Greensboro - H.Point - W.Salem, NC - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,SWAIN,Southern Mountains ISR," Greenville - Spartanburg, SC- Asheville - And., NC - GA  DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,TRANSYLVANIA,Central Mountains ISR," Greenville - Spartanburg, SC- Asheville - And., NC - GA  DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,TYRRELL,Northern Coast ISR," Greenville - New Bern - Washington, NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,UNION,Southern Foothills ISR," Charlotte, NC - SC DMA"," Charlotte - Gastonia - Rock Hill, NC - SC MSA", Charlotte Metro GMR.
+NORTH CAROLINA,NC,VANCE,Northern Heartland ISR," Raleigh - Durham, NC - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,WAKE,Northern Heartland ISR," Raleigh - Durham, NC - VA DMA"," Raleigh - Durham - Chapel Hill, NC MSA", Research Triangle Metro GMR.
+NORTH CAROLINA,NC,WARREN,Northern Heartland ISR," Raleigh - Durham, NC - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,WASHINGTON,Northern Coast ISR," Greenville - New Bern - Washington, NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,WATAUGA,Northern Mountains ISR," Charlotte, NC - SC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,WAYNE,Northern Heartland ISR," Raleigh - Durham, NC - VA DMA"," Goldsboro, NC MSA", Other Metro GMR.
+NORTH CAROLINA,NC,WILKES,Northern Mountains ISR," Greensboro - H.Point - W.Salem, NC - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,WILSON,Northern Heartland ISR," Raleigh - Durham, NC - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+NORTH CAROLINA,NC,YADKIN,Northern Foothills ISR," Greensboro - H.Point - W.Salem, NC - VA DMA"," Greensboro - Winston-Salem - High Point, NC MSA", Greensboro-WS-HP Metro GMR.
+NORTH CAROLINA,NC,YANCEY,Central Mountains ISR," Greenville - Spartanburg, SC- Asheville - And., NC - GA  DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.

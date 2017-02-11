@@ -1,0 +1,137 @@
+STATE,STATE_AB,COUNTY,Internal_State_Region,TVDMA,Metropolitan_Statistical_Areas,Metro_Grp
+VIRGINIA,VA,ACCOMACK,"Eastern Shore, DelMarVa ISR"," Norfolk - Portsmouth - Newport News, VA - NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,ALBEMARLE,"Central Virginia, Piedmont ISR"," Charlottesville, VA DMA"," Charlottesville, VA MSA", Other Metro GMR.
+VIRGINIA,VA,ALLEGHANY,Shenandoah Valley ISR," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,AMELIA,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,AMHERST,"Central Virginia, Piedmont ISR"," Roanoke - Lynchburg, VA - WV DMA"," Lynchburg, VA MSA", Other Metro GMR.
+VIRGINIA,VA,APPOMATTOX,"Central Virginia, Piedmont ISR"," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,ARLINGTON,Northern Virginia ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA"," Washington, DC Metro GMR."
+VIRGINIA,VA,AUGUSTA,Shenandoah Valley ISR," Harrisonburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,BATH,Shenandoah Valley ISR," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,BEDFORD,"Central Virginia, Piedmont ISR"," Roanoke - Lynchburg, VA - WV DMA"," Lynchburg, VA MSA", Other Metro GMR.
+VIRGINIA,VA,BLAND,Southwest Blue Ridge Highlands ISR," Bluefield - Beckley - Oak Hill, WV - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,BOTETOURT,Shenandoah Valley ISR," Roanoke - Lynchburg, VA - WV DMA"," Roanoke, VA MSA", Other Metro GMR.
+VIRGINIA,VA,BRUNSWICK,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,BUCHANAN,Southwest Blue Ridge Highlands ISR," Tri - Cities, TN - VA - KY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,BUCKINGHAM,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,CAMPBELL,"Central Virginia, Piedmont ISR"," Roanoke - Lynchburg, VA - WV DMA"," Lynchburg, VA MSA", Other Metro GMR.
+VIRGINIA,VA,CAROLINE,"Tidewater, Hampton Roads ISR"," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,CARROLL,Southwest Blue Ridge Highlands ISR," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,CHARLES CITY,"Tidewater, Hampton Roads ISR"," Richmond - Petersburg, VA DMA"," Richmond - Petersburg, VA MSA", Richmond Metro GMR.
+VIRGINIA,VA,CHARLOTTE,"Central Virginia, Piedmont ISR"," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,CHESTERFIELD,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA"," Richmond - Petersburg, VA MSA", Richmond Metro GMR.
+VIRGINIA,VA,CLARKE,Shenandoah Valley ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA"," Washington, DC Metro GMR."
+VIRGINIA,VA,CRAIG,Shenandoah Valley ISR," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,CULPEPER,Northern Virginia ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA"," Washington, DC Metro GMR."
+VIRGINIA,VA,CUMBERLAND,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,DICKENSON,Southwest Blue Ridge Highlands ISR," Tri - Cities, TN - VA - KY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,DINWIDDIE,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA"," Richmond - Petersburg, VA MSA", Richmond Metro GMR.
+VIRGINIA,VA,ESSEX,"Tidewater, Hampton Roads ISR"," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,FAIRFAX,Northern Virginia ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA"," Washington, DC Metro GMR."
+VIRGINIA,VA,FAUQUIER,Northern Virginia ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA"," Washington, DC Metro GMR."
+VIRGINIA,VA,FLOYD,Southwest Blue Ridge Highlands ISR," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,FLUVANNA,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA"," Charlottesville, VA MSA", Other Metro GMR.
+VIRGINIA,VA,FRANKLIN,"Central Virginia, Piedmont ISR"," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,FREDERICK,Shenandoah Valley ISR," Washington, DC - MD - PA - VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,GILES,Southwest Blue Ridge Highlands ISR," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,GLOUCESTER,"Tidewater, Hampton Roads ISR"," Norfolk - Portsmouth - Newport News, VA - NC DMA"," Norfolk - Virginia Beach - Newport News, VA - NC MSA", Virginia Beach
+VIRGINIA,VA,GOOCHLAND,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA"," Richmond - Petersburg, VA MSA", Richmond Metro GMR.
+VIRGINIA,VA,GRAYSON,Southwest Blue Ridge Highlands ISR," Greensboro - H.Point - W.Salem, NC - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,GREENE,Northern Virginia ISR," Charlottesville, VA DMA"," Charlottesville, VA MSA", Other Metro GMR.
+VIRGINIA,VA,GREENSVILLE,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,HALIFAX,"Central Virginia, Piedmont ISR"," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,HANOVER,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA"," Richmond - Petersburg, VA MSA", Richmond Metro GMR.
+VIRGINIA,VA,HENRICO,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA"," Richmond - Petersburg, VA MSA", Richmond Metro GMR.
+VIRGINIA,VA,HENRY,"Central Virginia, Piedmont ISR"," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,HIGHLAND,Shenandoah Valley ISR," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,ISLE OF WIGHT,"Tidewater, Hampton Roads ISR"," Norfolk - Portsmouth - Newport News, VA - NC DMA"," Norfolk - Virginia Beach - Newport News, VA - NC MSA", Virginia Beach
+VIRGINIA,VA,JAMES CITY,"Tidewater, Hampton Roads ISR"," Norfolk - Portsmouth - Newport News, VA - NC DMA"," Norfolk - Virginia Beach - Newport News, VA - NC MSA", Virginia Beach
+VIRGINIA,VA,KING AND QUEEN,"Tidewater, Hampton Roads ISR"," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,KING GEORGE,Northern Virginia ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA"," Washington, DC Metro GMR."
+VIRGINIA,VA,KING WILLIAM,"Tidewater, Hampton Roads ISR"," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,LANCASTER,"Tidewater, Hampton Roads ISR"," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,LEE,Southwest Blue Ridge Highlands ISR," Tri - Cities, TN - VA - KY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,LOUDOUN,Northern Virginia ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA"," Washington, DC Metro GMR."
+VIRGINIA,VA,LOUISA,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,LUNENBURG,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,MADISON,Northern Virginia ISR," Charlottesville, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,MATHEWS,"Tidewater, Hampton Roads ISR"," Norfolk - Portsmouth - Newport News, VA - NC DMA"," Norfolk - Virginia Beach - Newport News, VA - NC MSA", Virginia Beach
+VIRGINIA,VA,MECKLENBURG,"Central Virginia, Piedmont ISR"," Raleigh - Durham, NC - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,MIDDLESEX,"Tidewater, Hampton Roads ISR"," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,MONTGOMERY,Southwest Blue Ridge Highlands ISR," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,NELSON,"Central Virginia, Piedmont ISR"," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,NEW KENT,"Tidewater, Hampton Roads ISR"," Richmond - Petersburg, VA DMA"," Richmond - Petersburg, VA MSA", Richmond Metro GMR.
+VIRGINIA,VA,NORTHAMPTON,"Eastern Shore, DelMarVa ISR"," Norfolk - Portsmouth - Newport News, VA - NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,NORTHUMBERLAND,"Tidewater, Hampton Roads ISR"," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,NOTTOWAY,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,ORANGE,Northern Virginia ISR," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,PAGE,Shenandoah Valley ISR," Washington, DC - MD - PA - VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,PATRICK,Southwest Blue Ridge Highlands ISR," Greensboro - H.Point - W.Salem, NC - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,PITTSYLVANIA,"Central Virginia, Piedmont ISR"," Roanoke - Lynchburg, VA - WV DMA"," Danville, VA MSA", Other Metro GMR.
+VIRGINIA,VA,POWHATAN,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA"," Richmond - Petersburg, VA MSA", Richmond Metro GMR.
+VIRGINIA,VA,PRINCE EDWARD,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,PRINCE GEORGE,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA"," Richmond - Petersburg, VA MSA", Richmond Metro GMR.
+VIRGINIA,VA,PRINCE WILLIAM,Northern Virginia ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA"," Washington, DC Metro GMR."
+VIRGINIA,VA,PULASKI,Southwest Blue Ridge Highlands ISR," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,RAPPAHANNOCK,Northern Virginia ISR," Washington, DC - MD - PA - VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,RICHMOND,"Tidewater, Hampton Roads ISR"," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,ROANOKE,Shenandoah Valley ISR," Roanoke - Lynchburg, VA - WV DMA"," Roanoke, VA MSA", Other Metro GMR.
+VIRGINIA,VA,ROCKBRIDGE,Shenandoah Valley ISR," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,ROCKINGHAM,Shenandoah Valley ISR," Harrisonburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,RUSSELL,Southwest Blue Ridge Highlands ISR," Tri - Cities, TN - VA - KY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,SCOTT,Southwest Blue Ridge Highlands ISR," Tri - Cities, TN - VA - KY DMA"," Johnson City - Kingsport - Bristol, TN - VA MSA", Other Metro GMR.
+VIRGINIA,VA,SHENANDOAH,Shenandoah Valley ISR," Washington, DC - MD - PA - VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,SMYTH,Southwest Blue Ridge Highlands ISR," Tri - Cities, TN - VA - KY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,SOUTHAMPTON,"Central Virginia, Piedmont ISR"," Norfolk - Portsmouth - Newport News, VA - NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,SPOTSYLVANIA,Northern Virginia ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA"," Washington, DC Metro GMR."
+VIRGINIA,VA,STAFFORD,Northern Virginia ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA"," Washington, DC Metro GMR."
+VIRGINIA,VA,SURRY,"Tidewater, Hampton Roads ISR"," Norfolk - Portsmouth - Newport News, VA - NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,SUSSEX,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,TAZEWELL,Southwest Blue Ridge Highlands ISR," Bluefield - Beckley - Oak Hill, WV - VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,WARREN,Shenandoah Valley ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA"," Washington, DC Metro GMR."
+VIRGINIA,VA,WASHINGTON,Southwest Blue Ridge Highlands ISR," Tri - Cities, TN - VA - KY DMA"," Johnson City - Kingsport - Bristol, TN - VA MSA", Other Metro GMR.
+VIRGINIA,VA,WESTMORELAND,"Tidewater, Hampton Roads ISR"," Washington, DC - MD - PA - VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,WISE,Southwest Blue Ridge Highlands ISR," Tri - Cities, TN - VA - KY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,WYTHE,Southwest Blue Ridge Highlands ISR," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,YORK,"Tidewater, Hampton Roads ISR"," Norfolk - Portsmouth - Newport News, VA - NC DMA"," Norfolk - Virginia Beach - Newport News, VA - NC MSA", Virginia Beach
+VIRGINIA,VA,ALEXANDRIA,Northern Virginia ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA"," Washington, DC Metro GMR."
+VIRGINIA,VA,BEDFORD CITY,"Central Virginia, Piedmont ISR"," Roanoke - Lynchburg, VA - WV DMA"," Lynchburg, VA MSA", Other Metro GMR.
+VIRGINIA,VA,BRISTOL,Southwest Blue Ridge Highlands ISR," Tri - Cities, TN - VA - KY DMA"," Johnson City - Kingsport - Bristol, TN - VA MSA", Other Metro GMR.
+VIRGINIA,VA,BUENA VISTA,"Tidewater, Hampton Roads ISR"," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,CHARLOTTESVILLE,"Central Virginia, Piedmont ISR"," Charlottesville, VA DMA"," Charlottesville, VA MSA", Other Metro GMR.
+VIRGINIA,VA,CHESAPEAKE,"Tidewater, Hampton Roads ISR"," Norfolk - Portsmouth - Newport News, VA - NC DMA"," Norfolk - Virginia Beach - Newport News, VA - NC MSA", Virginia Beach
+VIRGINIA,VA,CLIFTON FORGE,Shenandoah Valley ISR," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,COLONIAL HEIGHTS,"Tidewater, Hampton Roads ISR"," Richmond - Petersburg, VA DMA"," Richmond - Petersburg, VA MSA", Richmond Metro GMR.
+VIRGINIA,VA,COVINGTON,Shenandoah Valley ISR," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,DANVILLE,"Central Virginia, Piedmont ISR"," Roanoke - Lynchburg, VA - WV DMA"," Danville, VA MSA", Other Metro GMR.
+VIRGINIA,VA,EMPORIA,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,FAIRFAX CITY,Northern Virginia ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA"," Washington, DC Metro GMR."
+VIRGINIA,VA,FALLS CHURCH,Northern Virginia ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA"," Washington, DC Metro GMR."
+VIRGINIA,VA,FRANKLIN CITY,"Tidewater, Hampton Roads ISR"," Norfolk - Portsmouth - Newport News, VA - NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,FREDERICKSBURG,Northern Virginia ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA"," Washington, DC Metro GMR."
+VIRGINIA,VA,GALAX,Southwest Blue Ridge Highlands ISR," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,HAMPTON,"Tidewater, Hampton Roads ISR"," Norfolk - Portsmouth - Newport News, VA - NC DMA"," Norfolk - Virginia Beach - Newport News, VA - NC MSA", Virginia Beach
+VIRGINIA,VA,HARRISONBURG,Shenandoah Valley ISR," Harrisonburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,HOPEWELL,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA"," Richmond - Petersburg, VA MSA", Richmond Metro GMR.
+VIRGINIA,VA,LEXINGTON,"Tidewater, Hampton Roads ISR"," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,LYNCHBURG,"Central Virginia, Piedmont ISR"," Roanoke - Lynchburg, VA - WV DMA"," Lynchburg, VA MSA", Other Metro GMR.
+VIRGINIA,VA,MANASSAS,Northern Virginia ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA"," Washington, DC Metro GMR."
+VIRGINIA,VA,MANASSAS PARK,Northern Virginia ISR," Washington, DC - MD - PA - VA - WV DMA"," Washington, DC - MD - VA - WV PMSA"," Washington, DC Metro GMR."
+VIRGINIA,VA,MARTINSVILLE,"Central Virginia, Piedmont ISR"," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,NEWPORT NEWS,"Tidewater, Hampton Roads ISR"," Norfolk - Portsmouth - Newport News, VA - NC DMA"," Norfolk - Virginia Beach - Newport News, VA - NC MSA", Virginia Beach
+VIRGINIA,VA,NORFOLK,"Tidewater, Hampton Roads ISR"," Norfolk - Portsmouth - Newport News, VA - NC DMA"," Norfolk - Virginia Beach - Newport News, VA - NC MSA", Virginia Beach
+VIRGINIA,VA,NORTON,Southwest Blue Ridge Highlands ISR," Tri - Cities, TN - VA - KY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,PETERSBURG,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA"," Richmond - Petersburg, VA MSA", Richmond Metro GMR.
+VIRGINIA,VA,POQUOSON,"Tidewater, Hampton Roads ISR"," Norfolk - Portsmouth - Newport News, VA - NC DMA"," Norfolk - Virginia Beach - Newport News, VA - NC MSA", Virginia Beach
+VIRGINIA,VA,PORTSMOUTH,"Tidewater, Hampton Roads ISR"," Norfolk - Portsmouth - Newport News, VA - NC DMA"," Norfolk - Virginia Beach - Newport News, VA - NC MSA", Virginia Beach
+VIRGINIA,VA,RADFORD,Southwest Blue Ridge Highlands ISR," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,RICHMOND CITY,"Central Virginia, Piedmont ISR"," Richmond - Petersburg, VA DMA"," Richmond - Petersburg, VA MSA", Richmond Metro GMR.
+VIRGINIA,VA,ROANOKE CITY,Shenandoah Valley ISR," Roanoke - Lynchburg, VA - WV DMA"," Roanoke, VA MSA", Other Metro GMR.
+VIRGINIA,VA,SALEM,Shenandoah Valley ISR," Roanoke - Lynchburg, VA - WV DMA"," Roanoke, VA MSA", Other Metro GMR.
+VIRGINIA,VA,SOUTH BOSTON,"Central Virginia, Piedmont ISR"," Roanoke - Lynchburg, VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,STAUNTON,Shenandoah Valley ISR," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,SUFFOLK,"Tidewater, Hampton Roads ISR"," Norfolk - Portsmouth - Newport News, VA - NC DMA"," Norfolk - Virginia Beach - Newport News, VA - NC MSA", Virginia Beach
+VIRGINIA,VA,VIRGINIA BEACH,"Tidewater, Hampton Roads ISR"," Norfolk - Portsmouth - Newport News, VA - NC DMA"," Norfolk - Virginia Beach - Newport News, VA - NC MSA", Virginia Beach
+VIRGINIA,VA,WAYNESBORO,Shenandoah Valley ISR," Richmond - Petersburg, VA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+VIRGINIA,VA,WILLIAMSBURG,"Tidewater, Hampton Roads ISR"," Norfolk - Portsmouth - Newport News, VA - NC DMA"," Norfolk - Virginia Beach - Newport News, VA - NC MSA", Virginia Beach
+VIRGINIA,VA,WINCHESTER,Shenandoah Valley ISR," Washington, DC - MD - PA - VA - WV DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.

@@ -1,0 +1,93 @@
+STATE,STATE_AB,COUNTY,Internal_State_Region,TVDMA,Metropolitan_Statistical_Areas,Metro_Grp
+INDIANA,IN,ADAMS,Eastern ISR," Ft. Wayne, IN - OH DMA"," Fort Wayne, IN MSA", Fort Wayne Metro GMR.
+INDIANA,IN,ALLEN,Eastern ISR," Ft. Wayne, IN - OH DMA"," Fort Wayne, IN MSA", Fort Wayne Metro GMR.
+INDIANA,IN,BARTHOLOMEW,South Central ISR," Indianapolis, IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,BENTON,Western ISR," Indianapolis, IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,BLACKFORD,Eastern ISR," Indianapolis, IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,BOONE,Central ISR," Indianapolis, IN DMA"," Indianapolis, IN MSA", Indianapolis Metro GMR.
+INDIANA,IN,BROWN,South Central ISR," Indianapolis, IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,CARROLL,Western ISR," Indianapolis, IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,CASS,Eastern ISR," Indianapolis, IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,CLARK,Southern ISR," Louisville, KY - IN DMA"," Louisville, KY - IN MSA", Other Metro GMR.
+INDIANA,IN,CLAY,Western ISR," Terre Haute, IN - IL DMA"," Terre Haute, IN MSA", Other Metro GMR.
+INDIANA,IN,CLINTON,Western ISR," Indianapolis, IN DMA"," Lafayette, IN MSA", Other Metro GMR.
+INDIANA,IN,CRAWFORD,Southern ISR," Louisville, KY - IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,DAVIESS,South Central ISR," Terre Haute, IN - IL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,DEARBORN,South Central ISR," Cincinnati, OH -IN - KY DMA"," Cincinnati, OH - KY - IN PMSA", Other Metro GMR.
+INDIANA,IN,DECATUR,South Central ISR," Indianapolis, IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,DE KALB,Eastern ISR," Ft. Wayne, IN - OH DMA"," Fort Wayne, IN MSA", Fort Wayne Metro GMR.
+INDIANA,IN,DELAWARE,Eastern ISR," Indianapolis, IN DMA"," Muncie, IN MSA", Other Metro GMR.
+INDIANA,IN,DUBOIS,Southern ISR," Evansville, IN - IL - KY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,ELKHART,Northern ISR," South Bend - Elkhart, IN - MI DMA"," Elkhart - Goshen, IN MSA", Other Metro GMR.
+INDIANA,IN,FAYETTE,Eastern ISR," Indianapolis, IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,FLOYD,Southern ISR," Louisville, KY - IN DMA"," Louisville, KY - IN MSA", Other Metro GMR.
+INDIANA,IN,FOUNTAIN,Western ISR," Indianapolis, IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,FRANKLIN,South Central ISR," Cincinnati, OH -IN - KY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,FULTON,Northern ISR," South Bend - Elkhart, IN - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,GIBSON,Southern ISR," Evansville, IN - IL - KY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,GRANT,Eastern ISR," Indianapolis, IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,GREENE,South Central ISR," Terre Haute, IN - IL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,HAMILTON,Central ISR," Indianapolis, IN DMA"," Indianapolis, IN MSA", Indianapolis Metro GMR.
+INDIANA,IN,HANCOCK,Central ISR," Indianapolis, IN DMA"," Indianapolis, IN MSA", Indianapolis Metro GMR.
+INDIANA,IN,HARRISON,Southern ISR," Louisville, KY - IN DMA"," Louisville, KY - IN MSA", Other Metro GMR.
+INDIANA,IN,HENDRICKS,Central ISR," Indianapolis, IN DMA"," Indianapolis, IN MSA", Indianapolis Metro GMR.
+INDIANA,IN,HENRY,Eastern ISR," Indianapolis, IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,HOWARD,Eastern ISR," Indianapolis, IN DMA"," Kokomo, IN MSA", Other Metro GMR.
+INDIANA,IN,HUNTINGTON,Eastern ISR," Ft. Wayne, IN - OH DMA"," Fort Wayne, IN MSA", Fort Wayne Metro GMR.
+INDIANA,IN,JACKSON,South Central ISR," Louisville, KY - IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,JASPER,Northern ISR," Chicago, IL - IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,JAY,Eastern ISR," Ft. Wayne, IN - OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,JEFFERSON,South Central ISR," Louisville, KY - IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,JENNINGS,South Central ISR," Louisville, KY - IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,JOHNSON,Central ISR," Indianapolis, IN DMA"," Indianapolis, IN MSA", Indianapolis Metro GMR.
+INDIANA,IN,KNOX,South Central ISR," Terre Haute, IN - IL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,KOSCIUSKO,Northern ISR," South Bend - Elkhart, IN - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,LAGRANGE,Northern ISR," South Bend - Elkhart, IN - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,LAKE,Northern ISR," Chicago, IL - IN DMA"," Gary, IN PMSA", Gary Metro GMR.
+INDIANA,IN,LA PORTE,Northern ISR," Chicago, IL - IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,LAWRENCE,South Central ISR," Indianapolis, IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,MADISON,Eastern ISR," Indianapolis, IN DMA"," Indianapolis, IN MSA", Indianapolis Metro GMR.
+INDIANA,IN,MARION,Central ISR," Indianapolis, IN DMA"," Indianapolis, IN MSA", Indianapolis Metro GMR.
+INDIANA,IN,MARSHALL,Northern ISR," South Bend - Elkhart, IN - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,MARTIN,South Central ISR," Terre Haute, IN - IL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,MIAMI,Eastern ISR," Indianapolis, IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,MONROE,South Central ISR," Indianapolis, IN DMA"," Bloomington, IN MSA", Other Metro GMR.
+INDIANA,IN,MONTGOMERY,Western ISR," Indianapolis, IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,MORGAN,Central ISR," Indianapolis, IN DMA"," Indianapolis, IN MSA", Indianapolis Metro GMR.
+INDIANA,IN,NEWTON,Western ISR," Chicago, IL - IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,NOBLE,Eastern ISR," Ft. Wayne, IN - OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,OHIO,South Central ISR," Cincinnati, OH -IN - KY DMA"," Cincinnati, OH - KY - IN PMSA", Other Metro GMR.
+INDIANA,IN,ORANGE,Southern ISR," Louisville, KY - IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,OWEN,Western ISR," Indianapolis, IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,PARKE,Western ISR," Terre Haute, IN - IL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,PERRY,Southern ISR," Evansville, IN - IL - KY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,PIKE,Southern ISR," Evansville, IN - IL - KY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,PORTER,Northern ISR," Chicago, IL - IN DMA"," Gary, IN PMSA", Gary Metro GMR.
+INDIANA,IN,POSEY,Southern ISR," Evansville, IN - IL - KY DMA"," Evansville - Henderson, IN - KY MSA", Other Metro GMR.
+INDIANA,IN,PULASKI,Northern ISR," South Bend - Elkhart, IN - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,PUTNAM,Western ISR," Indianapolis, IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,RANDOLPH,Eastern ISR," Indianapolis, IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,RIPLEY,South Central ISR," Cincinnati, OH -IN - KY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,RUSH,Eastern ISR," Indianapolis, IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,ST JOSEPH,Northern ISR," South Bend - Elkhart, IN - MI DMA"," South Bend, IN MSA", Other Metro GMR.
+INDIANA,IN,SCOTT,Southern ISR," Louisville, KY - IN DMA"," Louisville, KY - IN MSA", Other Metro GMR.
+INDIANA,IN,SHELBY,Central ISR," Indianapolis, IN DMA"," Indianapolis, IN MSA", Indianapolis Metro GMR.
+INDIANA,IN,SPENCER,Southern ISR," Evansville, IN - IL - KY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,STARKE,Northern ISR," South Bend - Elkhart, IN - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,STEUBEN,Northern ISR," Ft. Wayne, IN - OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,SULLIVAN,Western ISR," Terre Haute, IN - IL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,SWITZERLAND,South Central ISR," Cincinnati, OH -IN - KY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,TIPPECANOE,Western ISR," Lafayette, IN DMA"," Lafayette, IN MSA", Other Metro GMR.
+INDIANA,IN,TIPTON,Eastern ISR," Indianapolis, IN DMA"," Kokomo, IN MSA", Other Metro GMR.
+INDIANA,IN,UNION,Eastern ISR," Cincinnati, OH -IN - KY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,VANDERBURGH,Southern ISR," Evansville, IN - IL - KY DMA"," Evansville - Henderson, IN - KY MSA", Other Metro GMR.
+INDIANA,IN,VERMILLION,Western ISR," Terre Haute, IN - IL DMA"," Terre Haute, IN MSA", Other Metro GMR.
+INDIANA,IN,VIGO,Western ISR," Terre Haute, IN - IL DMA"," Terre Haute, IN MSA", Other Metro GMR.
+INDIANA,IN,WABASH,Eastern ISR," Ft. Wayne, IN - OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,WARREN,Western ISR," Lafayette, IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,WARRICK,Southern ISR," Evansville, IN - IL - KY DMA"," Evansville - Henderson, IN - KY MSA", Other Metro GMR.
+INDIANA,IN,WASHINGTON,Southern ISR," Louisville, KY - IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,WAYNE,Eastern ISR," Dayton, OH - IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,WELLS,Eastern ISR," Ft. Wayne, IN - OH DMA"," Fort Wayne, IN MSA", Fort Wayne Metro GMR.
+INDIANA,IN,WHITE,Western ISR," Indianapolis, IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+INDIANA,IN,WHITLEY,Eastern ISR," Ft. Wayne, IN - OH DMA"," Fort Wayne, IN MSA", Fort Wayne Metro GMR.

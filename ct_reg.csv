@@ -1,0 +1,9 @@
+STATE,STATE_AB,COUNTY,Internal_State_Region,TVDMA,Metropolitan_Statistical_Areas,Metro_Grp
+CONNECTICUT,CT,HARTFORD,No. Central  Greater Hartford ISR," Hartford & New Haven, CT DMA"," Hartford, CT NECMA", Hartford & Tolland Co. GMR.
+CONNECTICUT,CT,TOLLAND,No. Central  Greater Hartford ISR," Hartford & New Haven, CT DMA"," Hartford, CT NECMA", Hartford & Tolland Co. GMR.
+CONNECTICUT,CT,WINDHAM,Northeast Plains ISR," Hartford & New Haven, CT DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CONNECTICUT,CT,LITCHFIELD,Northwest Hills ISR," Hartford & New Haven, CT DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CONNECTICUT,CT,MIDDLESEX,Southeast Coast ISR," Hartford & New Haven, CT DMA"," Hartford, CT NECMA", Other Metro GMR.
+CONNECTICUT,CT,NEW LONDON,Southeast Coast ISR," Hartford & New Haven, CT DMA"," New London - Norwich, CT NECMA", Other Metro GMR.
+CONNECTICUT,CT,FAIRFIELD,Southwest Greater New York ISR," New York, NY - CT - NJ - PA DMA"," New Haven- Bridgeport- Stamford- Waterbury- Danbury,CT NECMA", Fairfield Co. GMR.
+CONNECTICUT,CT,NEW HAVEN,Southwest Greater New York ISR," Hartford & New Haven, CT DMA"," New Haven- Bridgeport- Stamford- Waterbury- Danbury,CT NECMA", New Haven Co. GMR

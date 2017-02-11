@@ -1,0 +1,59 @@
+STATE,STATE_AB,COUNTY,Internal_State_Region,TVDMA,Metropolitan_Statistical_Areas,Metro_Grp
+CALIFORNIA,CA,ALAMEDA,San Francisco Bay Area ISR," San Francisco - Oakland - San Jose, CA DMA"," Oakland, CA PMSA", Bay Area Metro GMR.
+CALIFORNIA,CA,ALPINE,Gold Country & High Sierra* ISR," Reno, NV - CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,AMADOR,Gold Country & High Sierra* ISR," Sacramento - Stockton - Modesto, CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,BUTTE,Shasta Cascade ISR," Chico - Redding, CA DMA"," Chico - Paradise, CA MSA", Other Metro GMR.
+CALIFORNIA,CA,CALAVERAS,Gold Country & High Sierra* ISR," Sacramento - Stockton - Modesto, CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,COLUSA,Central Valley* ISR," Sacramento - Stockton - Modesto, CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,CONTRA COSTA,San Francisco Bay Area ISR," San Francisco - Oakland - San Jose, CA DMA"," Oakland, CA PMSA", Bay Area Metro GMR.
+CALIFORNIA,CA,DEL NORTE,North Coast ISR," Eureka, CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,EL DORADO,Gold Country & High Sierra* ISR," Sacramento - Stockton - Modesto, CA DMA"," Sacramento, CA PMSA", Other Metro GMR.
+CALIFORNIA,CA,FRESNO,Central Valley* ISR," Fresno - Visalia, CA DMA"," Fresno, CA MSA", Other Metro GMR.
+CALIFORNIA,CA,GLENN,Central Valley* ISR," Chico - Redding, CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,HUMBOLDT,North Coast ISR," Eureka, CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,IMPERIAL,Inland Empire & Deserts* ISR," Yuma - El Centro, AZ - CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,INYO,Inland Empire & Deserts* ISR," Los Angeles, CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,KERN,Central Valley* ISR," Bakersfield, CA DMA"," Bakersfield, CA MSA", Other Metro GMR.
+CALIFORNIA,CA,KINGS,Central Valley* ISR," Fresno - Visalia, CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,LAKE,North Coast ISR," San Francisco - Oakland - San Jose, CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,LASSEN,Shasta Cascade ISR," Reno, NV - CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,LOS ANGELES,Los Angeles County ISR," Los Angeles, CA DMA"," Los Angeles - Long Beach, CA PMSA", LA Co. GMR.
+CALIFORNIA,CA,MADERA,Central Valley* ISR," Fresno - Visalia, CA DMA"," Fresno, CA MSA", Other Metro GMR.
+CALIFORNIA,CA,MARIN,San Francisco Bay Area ISR," San Francisco - Oakland - San Jose, CA DMA"," San Francisco, CA PMSA", Bay Area Metro GMR.
+CALIFORNIA,CA,MARIPOSA,Gold Country & High Sierra* ISR," Fresno - Visalia, CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,MENDOCINO,North Coast ISR," San Francisco - Oakland - San Jose, CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,MERCED,Central Valley* ISR," Fresno - Visalia, CA DMA"," Merced, CA MSA", Other Metro GMR.
+CALIFORNIA,CA,MODOC,Shasta Cascade ISR," Medford - Klamath Falls, OR - CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,MONO,Gold Country & High Sierra* ISR," Reno, NV - CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,MONTEREY,Central Coast ISR," Monterey - Salinas, CA DMA"," Salinas, CA MSA", Other Metro GMR.
+CALIFORNIA,CA,NAPA,North Coast ISR," San Francisco - Oakland - San Jose, CA DMA"," Vallejo - Fairfield - Napa, CA PMSA", Bay Area Metro GMR.
+CALIFORNIA,CA,NEVADA,Gold Country & High Sierra* ISR," Sacramento - Stockton - Modesto, CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,ORANGE,Orange & San Diego Counties* ISR," Los Angeles, CA DMA"," Orange County, CA PMSA", LA Suburbs GMR.
+CALIFORNIA,CA,PLACER,Gold Country & High Sierra* ISR," Sacramento - Stockton - Modesto, CA DMA"," Sacramento, CA PMSA", Other Metro GMR.
+CALIFORNIA,CA,PLUMAS,Shasta Cascade ISR," Sacramento - Stockton - Modesto, CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,RIVERSIDE,Inland Empire & Deserts* ISR," Palm Springs, CA DMA"," Riverside - San Bernardino, CA PMSA", LA Suburbs GMR.
+CALIFORNIA,CA,SACRAMENTO,Gold Country & High Sierra* ISR," Sacramento - Stockton - Modesto, CA DMA"," Sacramento, CA PMSA", Other Metro GMR.
+CALIFORNIA,CA,SAN BENITO,Central Coast ISR," Monterey - Salinas, CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,SAN BERNARDINO,Inland Empire & Deserts* ISR," Los Angeles, CA DMA"," Riverside - San Bernardino, CA PMSA", LA Suburbs GMR.
+CALIFORNIA,CA,SAN DIEGO,Orange & San Diego Counties* ISR," San Diego, CA DMA"," San Diego, CA MSA", San Diego GMR.
+CALIFORNIA,CA,SAN FRANCISCO,San Francisco Bay Area ISR," San Francisco - Oakland - San Jose, CA DMA"," San Francisco, CA PMSA", Bay Area Metro GMR.
+CALIFORNIA,CA,SAN JOAQUIN,Central Valley* ISR," Sacramento - Stockton - Modesto, CA DMA"," Stockton - Lodi, CA MSA", Other Metro GMR.
+CALIFORNIA,CA,SAN LUIS OBISPO,Central Coast ISR," Santa Barbara - Santa Maria - San Luis Obispo, CA DMA"," San Luis Obispo - Atascadero - Paso Robles, CA MSA", Other Metro GMR.
+CALIFORNIA,CA,SAN MATEO,San Francisco Bay Area ISR," San Francisco - Oakland - San Jose, CA DMA"," San Francisco, CA PMSA", Bay Area Metro GMR.
+CALIFORNIA,CA,SANTA BARBARA,Central Coast ISR," Santa Barbara - Santa Maria - San Luis Obispo, CA DMA"," Santa Barbara - Santa Maria - Lompoc, CA MSA", Other Metro GMR.
+CALIFORNIA,CA,SANTA CLARA,San Francisco Bay Area ISR," San Francisco - Oakland - San Jose, CA DMA"," San Jose, CA PMSA", Bay Area Metro GMR.
+CALIFORNIA,CA,SANTA CRUZ,San Francisco Bay Area ISR," Monterey - Salinas, CA DMA"," Santa Cruz - Watsonville, CA PMSA", Bay Area Metro GMR.
+CALIFORNIA,CA,SHASTA,Shasta Cascade ISR," Chico - Redding, CA DMA"," Redding, CA MSA", Other Metro GMR.
+CALIFORNIA,CA,SIERRA,Gold Country & High Sierra* ISR," Sacramento - Stockton - Modesto, CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,SISKIYOU,Shasta Cascade ISR," Medford - Klamath Falls, OR - CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,SOLANO,Central Valley* ISR," San Francisco - Oakland - San Jose, CA DMA"," Vallejo - Fairfield - Napa, CA PMSA", Bay Area Metro GMR.
+CALIFORNIA,CA,SONOMA,North Coast ISR," San Francisco - Oakland - San Jose, CA DMA"," Santa Rosa, CA PMSA", Bay Area Metro GMR.
+CALIFORNIA,CA,STANISLAUS,Central Valley* ISR," Sacramento - Stockton - Modesto, CA DMA"," Modesto, CA MSA", Other Metro GMR.
+CALIFORNIA,CA,SUTTER,Central Valley* ISR," Sacramento - Stockton - Modesto, CA DMA"," Yuba City, CA MSA", Other Metro GMR.
+CALIFORNIA,CA,TEHAMA,Shasta Cascade ISR," Chico - Redding, CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,TRINITY,Shasta Cascade ISR," Chico - Redding, CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,TULARE,Central Valley* ISR," Fresno - Visalia, CA DMA"," Visalia - Tulare - Porterville, CA MSA", Other Metro GMR.
+CALIFORNIA,CA,TUOLUMNE,Gold Country & High Sierra* ISR," Sacramento - Stockton - Modesto, CA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+CALIFORNIA,CA,VENTURA,Central Coast ISR," Los Angeles, CA DMA"," Ventura, CA PMSA", LA Suburbs GMR.
+CALIFORNIA,CA,YOLO,Central Valley* ISR," Sacramento - Stockton - Modesto, CA DMA"," Yolo, CA PMSA", Other Metro GMR.
+CALIFORNIA,CA,YUBA,Gold Country & High Sierra* ISR," Sacramento - Stockton - Modesto, CA DMA"," Yuba City, CA MSA", Other Metro GMR.

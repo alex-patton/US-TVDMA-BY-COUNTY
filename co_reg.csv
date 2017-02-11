@@ -1,0 +1,64 @@
+STATE,STATE_AB,COUNTY,Internal_State_Region,TVDMA,Metropolitan_Statistical_Areas,Metro_Grp
+COLORADO,CO,ADAMS,North Central ISR," Denver, CO - NE - NV - WY DMA"," Denver, CO PMSA",  GMR.
+COLORADO,CO,ALAMOSA,South Central ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,ARAPAHOE,North Central ISR," Denver, CO - NE - NV - WY DMA"," Denver, CO PMSA",  GMR.
+COLORADO,CO,ARCHULETA,Southwest ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,BACA,Southeast ISR," Colorado Springs - Pueblo, CO DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,BENT,Southeast ISR," Colorado Springs - Pueblo, CO DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,BOULDER,North Central ISR," Denver, CO - NE - NV - WY DMA"," Boulder - Longmont, CO PMSA",  GMR.
+COLORADO,CO,CHAFFEE,South Central ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,CHEYENNE,Northeast ISR," Colorado Springs - Pueblo, CO DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,CLEAR CREEK,North Central ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,CONEJOS,South Central ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,COSTILLA,South Central ISR," Albuquerque - Santa Fe, NM - AZ - CO DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,CROWLEY,Southeast ISR," Colorado Springs - Pueblo, CO DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,CUSTER,South Central ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,DELTA,Southwest ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,DENVER,North Central ISR," Denver, CO - NE - NV - WY DMA"," Denver, CO PMSA",  GMR.
+COLORADO,CO,DOLORES,Southwest ISR," Grand Junction - Montrose, CO DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,DOUGLAS,North Central ISR," Denver, CO - NE - NV - WY DMA"," Denver, CO PMSA",  GMR.
+COLORADO,CO,EAGLE,Northwest ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,ELBERT,Northeast ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,EL PASO,South Central ISR," Colorado Springs - Pueblo, CO DMA"," Colorado Springs, CO MSA",  GMR.
+COLORADO,CO,FREMONT,South Central ISR," Colorado Springs - Pueblo, CO DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,GARFIELD,Northwest ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,GILPIN,North Central ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,GRAND,Northwest ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,GUNNISON,Southwest ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,HINSDALE,Southwest ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,HUERFANO,Southeast ISR," Colorado Springs - Pueblo, CO DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,JACKSON,Northwest ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,JEFFERSON,North Central ISR," Denver, CO - NE - NV - WY DMA"," Denver, CO PMSA",  GMR.
+COLORADO,CO,KIOWA,Southeast ISR," Colorado Springs - Pueblo, CO DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,KIT CARSON,Northeast ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,LAKE,South Central ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,LA PLATA,Southwest ISR," Albuquerque - Santa Fe, NM - AZ - CO DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,LARIMER,North Central ISR," Denver, CO - NE - NV - WY DMA"," Fort Collins - Loveland, CO MSA",  GMR.
+COLORADO,CO,LAS ANIMAS,Southeast ISR," Colorado Springs - Pueblo, CO DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,LINCOLN,Northeast ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,LOGAN,Northeast ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,MESA,Northwest ISR," Grand Junction - Montrose, CO DMA"," Grand Junction, CO MSA",  GMR.
+COLORADO,CO,MINERAL,South Central ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,MOFFAT,Northwest ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,MONTEZUMA,Southwest ISR," Albuquerque - Santa Fe, NM - AZ - CO DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,MONTROSE,Southwest ISR," Grand Junction - Montrose, CO DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,MORGAN,Northeast ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,OTERO,Southeast ISR," Colorado Springs - Pueblo, CO DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,OURAY,Southwest ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,PARK,South Central ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,PHILLIPS,Northeast ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,PITKIN,Northwest ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,PROWERS,Southeast ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,PUEBLO,Southeast ISR," Colorado Springs - Pueblo, CO DMA"," Pueblo, CO MSA",  GMR.
+COLORADO,CO,RIO BLANCO,Northwest ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,RIO GRANDE,South Central ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,ROUTT,Northwest ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,SAGUACHE,South Central ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,SAN JUAN,Southwest ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,SAN MIGUEL,Southwest ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,SEDGWICK,Northeast ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,SUMMIT,Northwest ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,TELLER,South Central ISR," Colorado Springs - Pueblo, CO DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,WASHINGTON,Northeast ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.
+COLORADO,CO,WELD,Northeast ISR," Denver, CO - NE - NV - WY DMA"," Greeley, CO PMSA",  GMR.
+COLORADO,CO,YUMA,Northeast ISR," Denver, CO - NE - NV - WY DMA", Not Assigned to Metro Area (NAM),  GMR.

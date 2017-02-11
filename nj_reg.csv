@@ -1,0 +1,22 @@
+STATE,STATE_AB,COUNTY,Internal_State_Region,TVDMA,Metropolitan_Statistical_Areas,Metro_Grp
+NEW JERSEY,NJ,ATLANTIC,Greater Atlantic City ISR," Philadelphia, PA - DE - NJ DMA"," Atlantic - Cape May, NJ PMSA", Other Metro GMR.
+NEW JERSEY,NJ,BERGEN,Gateway ISR," New York, NY - CT - NJ - PA DMA"," Bergen - Passaic, NJ PMSA", NYC Suburbs GMR.
+NEW JERSEY,NJ,BURLINGTON,Delaware River ISR," Philadelphia, PA - DE - NJ DMA"," Philadelphia, PA - NJ PMSA", Philadelphia suburbs GMR.
+NEW JERSEY,NJ,CAMDEN,Delaware River ISR," Philadelphia, PA - DE - NJ DMA"," Philadelphia, PA - NJ PMSA", Philadelphia suburbs GMR.
+NEW JERSEY,NJ,CAPE MAY,Southern Shore ISR," Philadelphia, PA - DE - NJ DMA"," Atlantic - Cape May, NJ PMSA", Other Metro GMR.
+NEW JERSEY,NJ,CUMBERLAND,Southern Shore ISR," Philadelphia, PA - DE - NJ DMA"," Vineland - Millville - Bridgeton, NJ PMSA", Philadelphia suburbs GMR.
+NEW JERSEY,NJ,ESSEX,Gateway ISR," New York, NY - CT - NJ - PA DMA"," Newark, NJ PMSA", NYC Suburbs GMR.
+NEW JERSEY,NJ,GLOUCESTER,Delaware River ISR," Philadelphia, PA - DE - NJ DMA"," Philadelphia, PA - NJ PMSA", Philadelphia suburbs GMR.
+NEW JERSEY,NJ,HUDSON,Gateway ISR," New York, NY - CT - NJ - PA DMA"," Jersey City, NJ PMSA", NYC Suburbs GMR.
+NEW JERSEY,NJ,HUNTERDON,Skylands ISR," New York, NY - CT - NJ - PA DMA"," Middlesex - Somerset - Hunterdon, NJ PMSA", NYC Suburbs GMR.
+NEW JERSEY,NJ,MERCER,Delaware River ISR," Philadelphia, PA - DE - NJ DMA"," Trenton, NJ PMSA", Philadelphia suburbs GMR.
+NEW JERSEY,NJ,MIDDLESEX,Gateway ISR," New York, NY - CT - NJ - PA DMA"," Middlesex - Somerset - Hunterdon, NJ PMSA", NYC Suburbs GMR.
+NEW JERSEY,NJ,MONMOUTH,Shore ISR," New York, NY - CT - NJ - PA DMA"," Monmouth - Ocean, NJ PMSA", NYC Suburbs GMR.
+NEW JERSEY,NJ,MORRIS,Skylands ISR," New York, NY - CT - NJ - PA DMA"," Newark, NJ PMSA", NYC Suburbs GMR.
+NEW JERSEY,NJ,OCEAN,Shore ISR," New York, NY - CT - NJ - PA DMA"," Monmouth - Ocean, NJ PMSA", NYC Suburbs GMR.
+NEW JERSEY,NJ,PASSAIC,Gateway ISR," New York, NY - CT - NJ - PA DMA"," Bergen - Passaic, NJ PMSA", NYC Suburbs GMR.
+NEW JERSEY,NJ,SALEM,Delaware River ISR," Philadelphia, PA - DE - NJ DMA"," Philadelphia, PA - NJ PMSA", Philadelphia suburbs GMR.
+NEW JERSEY,NJ,SOMERSET,Skylands ISR," New York, NY - CT - NJ - PA DMA"," Middlesex - Somerset - Hunterdon, NJ PMSA", NYC Suburbs GMR.
+NEW JERSEY,NJ,SUSSEX,Skylands ISR," New York, NY - CT - NJ - PA DMA"," Newark, NJ PMSA", NYC Suburbs GMR.
+NEW JERSEY,NJ,UNION,Gateway ISR," New York, NY - CT - NJ - PA DMA"," Newark, NJ PMSA", NYC Suburbs GMR.
+NEW JERSEY,NJ,WARREN,Skylands ISR," New York, NY - CT - NJ - PA DMA"," Newark, NJ PMSA", Other Metro GMR.

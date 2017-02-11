@@ -1,0 +1,68 @@
+STATE,STATE_AB,COUNTY,Internal_State_Region,TVDMA,Metropolitan_Statistical_Areas,Metro_Grp
+ALABAMA,AL ,AUTAUGA,Central ISR," Montgomery, AL DMA"," Montgomery, AL MSA", Other Metro GMR.
+ALABAMA,AL ,BALDWIN,Gulf Coast ISR," Mobile, AL - Pensacola, FL - MS DMA"," Mobile, AL MSA", Mobile Metro GMR.
+ALABAMA,AL ,BARBOUR,Southeast ISR," Columbus, GA - AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,BIBB,Central ISR," Birmingham, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,BLOUNT,North ISR," Birmingham, AL DMA"," Birmingham, AL MSA", Birmingham Metro GMR.
+ALABAMA,AL ,BULLOCK,Central ISR," Montgomery, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,BUTLER,Southeast ISR," Montgomery, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,CALHOUN,North ISR," Birmingham, AL DMA"," Anniston, AL MSA", Other Metro GMR.
+ALABAMA,AL ,CHAMBERS,Central ISR," Columbus, GA - AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,CHEROKEE,North ISR," Birmingham, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,CHILTON,Central ISR," Birmingham, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,CHOCTAW,Central ISR," Meridian, MS - AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,CLARKE,Gulf Coast ISR," Mobile, AL - Pensacola, FL - MS DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,CLAY,North ISR," Birmingham, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,CLEBURNE,North ISR," Atlanta, GA - AL - NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,COFFEE,Southeast ISR," Dothan, AL - GA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,COLBERT,North ISR," Huntsville - Decatur - Florence, AL - TN DMA"," Florence, AL MSA", Other Metro GMR.
+ALABAMA,AL ,CONECUH,Gulf Coast ISR," Mobile, AL - Pensacola, FL - MS DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,COOSA,Central ISR," Montgomery, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,COVINGTON,Southeast ISR," Montgomery, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,CRENSHAW,Southeast ISR," Montgomery, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,CULLMAN,North ISR," Birmingham, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,DALE,Southeast ISR," Dothan, AL - GA DMA"," Dothan, AL MSA", Other Metro GMR.
+ALABAMA,AL ,DALLAS,Central ISR," Montgomery, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,DE KALB,North ISR," Huntsville - Decatur - Florence, AL - TN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,ELMORE,Central ISR," Montgomery, AL DMA"," Montgomery, AL MSA", Other Metro GMR.
+ALABAMA,AL ,ESCAMBIA,Gulf Coast ISR," Mobile, AL - Pensacola, FL - MS DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,ETOWAH,North ISR," Birmingham, AL DMA"," Gadsden, AL MSA", Other Metro GMR.
+ALABAMA,AL ,FAYETTE,North ISR," Birmingham, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,FRANKLIN,North ISR," Huntsville - Decatur - Florence, AL - TN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,GENEVA,Southeast ISR," Dothan, AL - GA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,GREENE,Central ISR," Birmingham, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,HALE,Central ISR," Birmingham, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,HENRY,Southeast ISR," Dothan, AL - GA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,HOUSTON,Southeast ISR," Dothan, AL - GA DMA"," Dothan, AL MSA", Other Metro GMR.
+ALABAMA,AL ,JACKSON,North ISR," Huntsville - Decatur - Florence, AL - TN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,JEFFERSON,North ISR," Birmingham, AL DMA"," Birmingham, AL MSA", Birmingham Metro GMR.
+ALABAMA,AL ,LAMAR,North ISR," Columbus - Tupelo - West Point, MS - AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,LAUDERDALE,North ISR," Huntsville - Decatur - Florence, AL - TN DMA"," Florence, AL MSA", Other Metro GMR.
+ALABAMA,AL ,LAWRENCE,North ISR," Huntsville - Decatur - Florence, AL - TN DMA"," Decatur, AL MSA", Other Metro GMR.
+ALABAMA,AL ,LEE,Central ISR," Columbus, GA - AL DMA"," Columbus, GA - AL MSA", Other Metro GMR.
+ALABAMA,AL ,LIMESTONE,North ISR," Huntsville - Decatur - Florence, AL - TN DMA"," Huntsville, AL MSA", Other Metro GMR.
+ALABAMA,AL ,LOWNDES,Central ISR," Montgomery, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,MACON,Central ISR," Montgomery, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,MADISON,North ISR," Huntsville - Decatur - Florence, AL - TN DMA"," Huntsville, AL MSA", Other Metro GMR.
+ALABAMA,AL ,MARENGO,Central ISR," Montgomery, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,MARION,North ISR," Birmingham, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,MARSHALL,North ISR," Huntsville - Decatur - Florence, AL - TN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,MOBILE,Gulf Coast ISR," Mobile, AL - Pensacola, FL - MS DMA"," Mobile, AL MSA", Mobile Metro GMR.
+ALABAMA,AL ,MONROE,Gulf Coast ISR," Mobile, AL - Pensacola, FL - MS DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,MONTGOMERY,Central ISR," Montgomery, AL DMA"," Montgomery, AL MSA", Other Metro GMR.
+ALABAMA,AL ,MORGAN,North ISR," Huntsville - Decatur - Florence, AL - TN DMA"," Decatur, AL MSA", Other Metro GMR.
+ALABAMA,AL ,PERRY,Central ISR," Montgomery, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,PICKENS,Central ISR," Birmingham, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,PIKE,Southeast ISR," Montgomery, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,RANDOLPH,Central ISR," Atlanta, GA - AL - NC DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,RUSSELL,Central ISR," Columbus, GA - AL DMA"," Columbus, GA - AL MSA", Other Metro GMR.
+ALABAMA,AL ,ST CLAIR,North ISR," Birmingham, AL DMA"," Birmingham, AL MSA", Birmingham Metro GMR.
+ALABAMA,AL ,SHELBY,Central ISR," Birmingham, AL DMA"," Birmingham, AL MSA", Birmingham Metro GMR.
+ALABAMA,AL ,SUMTER,Central ISR," Meridian, MS - AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,TALLADEGA,North ISR," Birmingham, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,TALLAPOOSA,Central ISR," Montgomery, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,TUSCALOOSA,Central ISR," Birmingham, AL DMA"," Tuscaloosa, AL MSA", Other Metro GMR.
+ALABAMA,AL ,WALKER,North ISR," Birmingham, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,WASHINGTON,Gulf Coast ISR," Mobile, AL - Pensacola, FL - MS DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,WILCOX,Central ISR," Montgomery, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+ALABAMA,AL ,WINSTON,North ISR," Birmingham, AL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.

@@ -1,0 +1,15 @@
+STATE,STATE_AB,COUNTY,Internal_State_Region,TVDMA,Metropolitan_Statistical_Areas,Metro_Grp
+MASSACHUSETTS,MA,BARNSTABLE,Cape Cod and the Islands ISR," Boston, MA - NH DMA"," Barnstable - Yarmouth, MA NECMA", Other Metro GMR.
+MASSACHUSETTS,MA,BERKSHIRE,Berkshires & Conn. R. Valley ISR," Albany - Schenectady - Troy, NY - MA - VT DMA"," Pittsfield, MA NECMA", Other Metro GMR.
+MASSACHUSETTS,MA,BRISTOL,"Fall River - Providence, RI ISR"," Providence, RI - New Bedford, MA DMA"," Boston- Worcester- Lawrence- Lowell- Brockton, MA - NH NECMA", Boston Outer Sub
+MASSACHUSETTS,MA,DUKES,Cape Cod and the Islands ISR," Boston, MA - NH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+MASSACHUSETTS,MA,ESSEX,North Shore ISR," Boston, MA - NH DMA"," Boston- Worcester- Lawrence- Lowell- Brockton, MA - NH NECMA", Boston Outer Suburbs GMR.
+MASSACHUSETTS,MA,FRANKLIN,Berkshires & Conn. R. Valley ISR," Springfield - Holyoke, MA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+MASSACHUSETTS,MA,HAMPDEN,Berkshires & Conn. R. Valley ISR," Springfield - Holyoke, MA DMA"," Springfield, MA NECMA", Other Metro GMR.
+MASSACHUSETTS,MA,HAMPSHIRE,Berkshires & Conn. R. Valley ISR," Springfield - Holyoke, MA DMA"," Springfield, MA NECMA", Other Metro GMR.
+MASSACHUSETTS,MA,MIDDLESEX,Greater Boston ISR," Boston, MA - NH DMA"," Boston- Worcester- Lawrence- Lowell- Brockton, MA - NH NECMA", Boston Inner Suburbs GMR.
+MASSACHUSETTS,MA,NANTUCKET,Cape Cod and the Islands ISR," Boston, MA - NH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+MASSACHUSETTS,MA,NORFOLK,Greater Boston ISR," Boston, MA - NH DMA"," Boston- Worcester- Lawrence- Lowell- Brockton, MA - NH NECMA", Boston Inner Suburbs GMR.
+MASSACHUSETTS,MA,PLYMOUTH,South Shore ISR," Boston, MA - NH DMA"," Boston- Worcester- Lawrence- Lowell- Brockton, MA - NH NECMA", Boston Outer Suburbs GMR.
+MASSACHUSETTS,MA,SUFFOLK,Greater Boston ISR," Boston, MA - NH DMA"," Boston- Worcester- Lawrence- Lowell- Brockton, MA - NH NECMA", Boston Core (Suffolk Co.) GMR.
+MASSACHUSETTS,MA,WORCESTER,Central - Worcester ISR," Boston, MA - NH DMA"," Boston- Worcester- Lawrence- Lowell- Brockton, MA - NH NECMA", Boston Outer Suburbs GMR.

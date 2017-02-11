@@ -1,0 +1,5 @@
+STATE,STATE_AB,COUNTY,Internal_State_Region,TVDMA,Metropolitan_Statistical_Areas,Metro_Grp
+HAWAII,HI,HAWAII,Balance of Hawaii ISR," Honolulu, HI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+HAWAII,HI,HONOLULU,Honolulu ISR," Honolulu, HI DMA"," Honolulu, HI MSA", Honolulu Metro GMR.
+HAWAII,HI,KAUAI,Balance of Hawaii ISR," Honolulu, HI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+HAWAII,HI,MAUI,Balance of Hawaii ISR," Honolulu, HI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.

@@ -1,0 +1,89 @@
+STATE,STATE_AB,COUNTY,Internal_State_Region,TVDMA,Metropolitan_Statistical_Areas,Metro_Grp
+OHIO,OH,ADAMS,Southwest ISR," Cincinnati, OH -IN - KY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,ALLEN,Northwest ISR," Lima, OH DMA"," Lima, OH MSA", Other Metro GMR.
+OHIO,OH,ASHLAND,Northeast ISR," Cleveland, OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,ASHTABULA,Northeast ISR," Cleveland, OH DMA"," Cleveland - Lorain - Elyria, OH PMSA", Cleveland Metro GMR.
+OHIO,OH,ATHENS,Southeast ISR," Charleston - Huntington, WV - KY - OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,AUGLAIZE,Northwest ISR," Dayton, OH - IN DMA"," Lima, OH MSA", Other Metro GMR.
+OHIO,OH,BELMONT,Southeast ISR," Wheeling - Steubenville, WV - OH DMA"," Wheeling, WV - OH MSA", Other Metro GMR.
+OHIO,OH,BROWN,Southwest ISR," Cincinnati, OH -IN - KY DMA"," Cincinnati, OH - KY - IN PMSA", Cincinnati Metro GMR.
+OHIO,OH,BUTLER,Southwest ISR," Cincinnati, OH -IN - KY DMA"," Hamilton - Middletown, OH PMSA", Other Metro GMR.
+OHIO,OH,CARROLL,Northeast ISR," Cleveland, OH DMA"," Canton - Massillon, OH MSA", Other Metro GMR.
+OHIO,OH,CHAMPAIGN,Southwest ISR," Dayton, OH - IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,CLARK,Southwest ISR," Dayton, OH - IN DMA"," Dayton - Springfield, OH MSA", Dayton Metro GMR.
+OHIO,OH,CLERMONT,Southwest ISR," Cincinnati, OH -IN - KY DMA"," Cincinnati, OH - KY - IN PMSA", Cincinnati Metro GMR.
+OHIO,OH,CLINTON,Southwest ISR," Cincinnati, OH -IN - KY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,COLUMBIANA,Northeast ISR," Youngstown, OH - PA DMA"," Youngstown - Warren, OH MSA", Akron-Youngstown Metro GMR.
+OHIO,OH,COSHOCTON,Northeast ISR," Columbus, OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,CRAWFORD,Northwest ISR," Columbus, OH DMA"," Mansfield, OH MSA", Other Metro GMR.
+OHIO,OH,CUYAHOGA,Northeast ISR," Cleveland, OH DMA"," Cleveland - Lorain - Elyria, OH PMSA", Cleveland Metro GMR.
+OHIO,OH,DARKE,Southwest ISR," Dayton, OH - IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,DEFIANCE,Northwest ISR," Toledo, OH - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,DELAWARE,Central ISR," Columbus, OH DMA"," Columbus, OH MSA", Columbus Metro GMR.
+OHIO,OH,ERIE,Northwest ISR," Cleveland, OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,FAIRFIELD,Central ISR," Columbus, OH DMA"," Columbus, OH MSA", Columbus Metro GMR.
+OHIO,OH,FAYETTE,Southwest ISR," Columbus, OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,FRANKLIN,Central ISR," Columbus, OH DMA"," Columbus, OH MSA", Columbus Metro GMR.
+OHIO,OH,FULTON,Northwest ISR," Toledo, OH - MI DMA"," Toledo, OH MSA", Toledo Metro GMR.
+OHIO,OH,GALLIA,Southeast ISR," Charleston - Huntington, WV - KY - OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,GEAUGA,Northeast ISR," Cleveland, OH DMA"," Cleveland - Lorain - Elyria, OH PMSA", Cleveland Metro GMR.
+OHIO,OH,GREENE,Southwest ISR," Dayton, OH - IN DMA"," Dayton - Springfield, OH MSA", Dayton Metro GMR.
+OHIO,OH,GUERNSEY,Southeast ISR," Wheeling - Steubenville, WV - OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,HAMILTON,Southwest ISR," Cincinnati, OH -IN - KY DMA"," Cincinnati, OH - KY - IN PMSA", Cincinnati Metro GMR.
+OHIO,OH,HANCOCK,Northwest ISR," Toledo, OH - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,HARDIN,Northwest ISR," Columbus, OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,HARRISON,Northeast ISR," Wheeling - Steubenville, WV - OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,HENRY,Northwest ISR," Toledo, OH - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,HIGHLAND,Southwest ISR," Cincinnati, OH -IN - KY DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,HOCKING,Southeast ISR," Columbus, OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,HOLMES,Northeast ISR," Cleveland, OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,HURON,Northwest ISR," Cleveland, OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,JACKSON,Southeast ISR," Charleston - Huntington, WV - KY - OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,JEFFERSON,Northeast ISR," Wheeling - Steubenville, WV - OH DMA"," Steubenville - Weirton, OH - WV MSA", Other Metro GMR.
+OHIO,OH,KNOX,Central ISR," Columbus, OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,LAKE,Northeast ISR," Cleveland, OH DMA"," Cleveland - Lorain - Elyria, OH PMSA", Cleveland Metro GMR.
+OHIO,OH,LAWRENCE,Southeast ISR," Charleston - Huntington, WV - KY - OH DMA"," Huntington - Ashland, WV - KY - OH MSA", Other Metro GMR.
+OHIO,OH,LICKING,Central ISR," Columbus, OH DMA"," Columbus, OH MSA", Columbus Metro GMR.
+OHIO,OH,LOGAN,Central ISR," Dayton, OH - IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,LORAIN,Northeast ISR," Cleveland, OH DMA"," Cleveland - Lorain - Elyria, OH PMSA", Cleveland Metro GMR.
+OHIO,OH,LUCAS,Northwest ISR," Toledo, OH - MI DMA"," Toledo, OH MSA", Toledo Metro GMR.
+OHIO,OH,MADISON,Central ISR," Columbus, OH DMA"," Columbus, OH MSA", Columbus Metro GMR.
+OHIO,OH,MAHONING,Northeast ISR," Youngstown, OH - PA DMA"," Youngstown - Warren, OH MSA", Akron-Youngstown Metro GMR.
+OHIO,OH,MARION,Central ISR," Columbus, OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,MEDINA,Northeast ISR," Cleveland, OH DMA"," Cleveland - Lorain - Elyria, OH PMSA", Cleveland Metro GMR.
+OHIO,OH,MEIGS,Southeast ISR," Charleston - Huntington, WV - KY - OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,MERCER,Northwest ISR," Dayton, OH - IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,MIAMI,Southwest ISR," Dayton, OH - IN DMA"," Dayton - Springfield, OH MSA", Dayton Metro GMR.
+OHIO,OH,MONROE,Southeast ISR," Wheeling - Steubenville, WV - OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,MONTGOMERY,Southwest ISR," Dayton, OH - IN DMA"," Dayton - Springfield, OH MSA", Dayton Metro GMR.
+OHIO,OH,MORGAN,Southeast ISR," Columbus, OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,MORROW,Central ISR," Columbus, OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,MUSKINGUM,Southeast ISR," Zanesville, OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,NOBLE,Southeast ISR," Wheeling - Steubenville, WV - OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,OTTAWA,Northwest ISR," Toledo, OH - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,PAULDING,Northwest ISR," Ft. Wayne, IN - OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,PERRY,Southeast ISR," Columbus, OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,PICKAWAY,Central ISR," Columbus, OH DMA"," Columbus, OH MSA", Columbus Metro GMR.
+OHIO,OH,PIKE,Southeast ISR," Columbus, OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,PORTAGE,Northeast ISR," Cleveland, OH DMA"," Akron, OH PMSA", Akron-Youngstown Metro GMR.
+OHIO,OH,PREBLE,Southwest ISR," Dayton, OH - IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,PUTNAM,Northwest ISR," Toledo, OH - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,RICHLAND,Northeast ISR," Cleveland, OH DMA"," Mansfield, OH MSA", Other Metro GMR.
+OHIO,OH,ROSS,Southeast ISR," Columbus, OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,SANDUSKY,Northwest ISR," Toledo, OH - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,SCIOTO,Southeast ISR," Charleston - Huntington, WV - KY - OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,SENECA,Northwest ISR," Toledo, OH - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,SHELBY,Northwest ISR," Dayton, OH - IN DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,STARK,Northeast ISR," Cleveland, OH DMA"," Canton - Massillon, OH MSA", Other Metro GMR.
+OHIO,OH,SUMMIT,Northeast ISR," Cleveland, OH DMA"," Akron, OH PMSA", Akron-Youngstown Metro GMR.
+OHIO,OH,TRUMBULL,Northeast ISR," Youngstown, OH - PA DMA"," Youngstown - Warren, OH MSA", Akron-Youngstown Metro GMR.
+OHIO,OH,TUSCARAWAS,Northeast ISR," Cleveland, OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,UNION,Central ISR," Columbus, OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,VAN WERT,Northwest ISR," Ft. Wayne, IN - OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,VINTON,Southeast ISR," Charleston - Huntington, WV - KY - OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,WARREN,Southwest ISR," Cincinnati, OH -IN - KY DMA"," Cincinnati, OH - KY - IN PMSA", Cincinnati Metro GMR.
+OHIO,OH,WASHINGTON,Southeast ISR," Parkersburg, WV - OH DMA"," Parkersburg - Marietta, WV - OH MSA", Other Metro GMR.
+OHIO,OH,WAYNE,Northeast ISR," Cleveland, OH DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,WILLIAMS,Northwest ISR," Toledo, OH - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+OHIO,OH,WOOD,Northwest ISR," Toledo, OH - MI DMA"," Toledo, OH MSA", Toledo Metro GMR.
+OHIO,OH,WYANDOT,Northwest ISR," Toledo, OH - MI DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.

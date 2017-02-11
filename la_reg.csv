@@ -1,0 +1,65 @@
+STATE,STATE_AB,COUNTY,Internal_State_Region,TVDMA,Metropolitan_Statistical_Areas,Metro_Grp
+LOUISIANA,LA,ACADIA,Cajun Country ISR," Lafayette, LA DMA"," Lafayette, LA MSA", Other Metro GMR.
+LOUISIANA,LA,ALLEN,Crossroads ISR," Lake Charles, LA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,ASCENSION,Plantation Country ISR," Baton Rouge, LA - MS DMA"," Baton Rouge, LA MSA", Baton Rouge Metro GMR.
+LOUISIANA,LA,ASSUMPTION,Cajun Country ISR," Baton Rouge, LA - MS DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,AVOYELLES,Cajun Country ISR," Alexandria, LA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,BEAUREGARD,Crossroads ISR," Lake Charles, LA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,BIENVILLE,Sportmans Paradise ISR," Shreveport, LA - AR - OK - TX DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,BOSSIER,Sportmans Paradise ISR," Shreveport, LA - AR - OK - TX DMA"," Shreveport - Bossier City, LA MSA", Other Metro GMR.
+LOUISIANA,LA,CADDO,Sportmans Paradise ISR," Shreveport, LA - AR - OK - TX DMA"," Shreveport - Bossier City, LA MSA", Other Metro GMR.
+LOUISIANA,LA,CALCASIEU,Cajun Country ISR," Lake Charles, LA DMA"," Lake Charles, LA MSA", Other Metro GMR.
+LOUISIANA,LA,CALDWELL,Sportmans Paradise ISR," Monroe - El Dorado, LA - AR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,CAMERON,Cajun Country ISR," Lake Charles, LA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,CATAHOULA,Crossroads ISR," Monroe - El Dorado, LA - AR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,CLAIBORNE,Sportmans Paradise ISR," Shreveport, LA - AR - OK - TX DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,CONCORDIA,Crossroads ISR," Monroe - El Dorado, LA - AR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,DE SOTO,Sportmans Paradise ISR," Shreveport, LA - AR - OK - TX DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,EAST BATON ROUGE,Plantation Country ISR," Baton Rouge, LA - MS DMA"," Baton Rouge, LA MSA", Baton Rouge Metro GMR.
+LOUISIANA,LA,EAST CARROLL,Sportmans Paradise ISR," Monroe - El Dorado, LA - AR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,EAST FELICIANA,Plantation Country ISR," Baton Rouge, LA - MS DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,EVANGELINE,Cajun Country ISR," Lafayette, LA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,FRANKLIN,Sportmans Paradise ISR," Monroe - El Dorado, LA - AR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,GRANT,Crossroads ISR," Alexandria, LA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,IBERIA,Cajun Country ISR," Lafayette, LA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,IBERVILLE,Plantation Country ISR," Baton Rouge, LA - MS DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,JACKSON,Sportmans Paradise ISR," Monroe - El Dorado, LA - AR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,JEFFERSON,Greater New Orleans ISR," New Orleans, LA - MS DMA"," New Orleans, LA MSA", New Orleans Metro GMR.
+LOUISIANA,LA,JEFFERSON DAVIS,Cajun Country ISR," Lafayette, LA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,LAFAYETTE,Cajun Country ISR," Lafayette, LA DMA"," Lafayette, LA MSA", Other Metro GMR.
+LOUISIANA,LA,LAFOURCHE,Cajun Country ISR," New Orleans, LA - MS DMA"," Houma, LA MSA", Other Metro GMR.
+LOUISIANA,LA,LA SALLE,Crossroads ISR," Monroe - El Dorado, LA - AR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,LINCOLN,Sportmans Paradise ISR," Monroe - El Dorado, LA - AR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,LIVINGSTON,Plantation Country ISR," Baton Rouge, LA - MS DMA"," Baton Rouge, LA MSA", Baton Rouge Metro GMR.
+LOUISIANA,LA,MADISON,Sportmans Paradise ISR," Monroe - El Dorado, LA - AR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,MOREHOUSE,Sportmans Paradise ISR," Monroe - El Dorado, LA - AR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,NATCHITOCHES,Crossroads ISR," Shreveport, LA - AR - OK - TX DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,ORLEANS,Greater New Orleans ISR," New Orleans, LA - MS DMA"," New Orleans, LA MSA", New Orleans Metro GMR.
+LOUISIANA,LA,OUACHITA,Sportmans Paradise ISR," Monroe - El Dorado, LA - AR DMA"," Monroe, LA MSA", Other Metro GMR.
+LOUISIANA,LA,PLAQUEMINES,Greater New Orleans ISR," New Orleans, LA - MS DMA"," New Orleans, LA MSA", New Orleans Metro GMR.
+LOUISIANA,LA,POINTE COUPEE,Plantation Country ISR," Baton Rouge, LA - MS DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,RAPIDES,Crossroads ISR," Alexandria, LA DMA"," Alexandria, LA MSA", Other Metro GMR.
+LOUISIANA,LA,RED RIVER,Sportmans Paradise ISR," Shreveport, LA - AR - OK - TX DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,RICHLAND,Sportmans Paradise ISR," Monroe - El Dorado, LA - AR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,SABINE,Sportmans Paradise ISR," Shreveport, LA - AR - OK - TX DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,ST BERNARD,Greater New Orleans ISR," New Orleans, LA - MS DMA"," New Orleans, LA MSA", New Orleans Metro GMR.
+LOUISIANA,LA,ST CHARLES,Greater New Orleans ISR," New Orleans, LA - MS DMA"," New Orleans, LA MSA", New Orleans Metro GMR.
+LOUISIANA,LA,ST HELENA,Plantation Country ISR," Baton Rouge, LA - MS DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,ST JAMES,Plantation Country ISR," New Orleans, LA - MS DMA"," New Orleans, LA MSA", New Orleans Metro GMR.
+LOUISIANA,LA,ST JOHN THE BAP,Greater New Orleans ISR," New Orleans, LA - MS DMA"," New Orleans, LA MSA", New Orleans Metro GMR.
+LOUISIANA,LA,ST LANDRY,Cajun Country ISR," Lafayette, LA DMA"," Lafayette, LA MSA", Other Metro GMR.
+LOUISIANA,LA,ST MARTIN,Cajun Country ISR," Lafayette, LA DMA"," Lafayette, LA MSA", Other Metro GMR.
+LOUISIANA,LA,ST MARY,Cajun Country ISR," Baton Rouge, LA - MS DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,ST TAMMANY,Greater New Orleans ISR," New Orleans, LA - MS DMA"," New Orleans, LA MSA", New Orleans Metro GMR.
+LOUISIANA,LA,TANGIPAHOA,Greater New Orleans ISR," New Orleans, LA - MS DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,TENSAS,Crossroads ISR," Monroe - El Dorado, LA - AR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,TERREBONNE,Cajun Country ISR," New Orleans, LA - MS DMA"," Houma, LA MSA", Other Metro GMR.
+LOUISIANA,LA,UNION,Sportmans Paradise ISR," Monroe - El Dorado, LA - AR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,VERMILION,Cajun Country ISR," Lafayette, LA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,VERNON,Crossroads ISR," Alexandria, LA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,WASHINGTON,Greater New Orleans ISR," New Orleans, LA - MS DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,WEBSTER,Sportmans Paradise ISR," Shreveport, LA - AR - OK - TX DMA"," Shreveport - Bossier City, LA MSA", Other Metro GMR.
+LOUISIANA,LA,WEST BATON ROUGE,P lantation Country ISR," Baton Rouge, LA - MS DMA"," Baton Rouge, LA MSA", Baton Rouge Metro GMR.
+LOUISIANA,LA,WEST CARROLL,Sportmans Paradise ISR," Monroe - El Dorado, LA - AR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,WEST FELICIANA,Plantation Country ISR," Baton Rouge, LA - MS DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+LOUISIANA,LA,WINN,Crossroads ISR," Monroe - El Dorado, LA - AR DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.

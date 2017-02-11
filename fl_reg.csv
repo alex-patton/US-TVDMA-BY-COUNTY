@@ -1,0 +1,69 @@
+STATE,STATE_AB,COUNTY,Internal_State_Region,TVDMA,Metropolitan_Statistical_Areas,Metro_Grp
+FLORIDA,FL,ALACHUA,Northeast ISR," Gainesville, FL DMA"," Gainesville, FL MSA", Other Metro GMR.
+FLORIDA,FL,BAKER,Northeast ISR," Jacksonville, FL - Brunswick, GA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,BAY,Northwest ISR," Panama City, FL DMA"," Panama City, FL MSA", Other Metro GMR.
+FLORIDA,FL,BRADFORD,Northeast ISR," Jacksonville, FL - Brunswick, GA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,BREVARD,Central East ISR," Orlando - Daytona Beach - Melbourne, FL DMA"," Melbourne - Titusville - Palm Bay, FL MSA", Other Metro GMR.
+FLORIDA,FL,BROWARD,Southeast ISR," Miami - Ft. Lauderdale, FL DMA"," Fort Lauderdale, FL PMSA", Miami Metro GMR.
+FLORIDA,FL,CALHOUN,Northwest ISR," Panama City, FL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,CHARLOTTE,Southwest ISR," Ft. Myers - Naples, FL DMA"," Punta Gorda, FL MSA", Other Metro GMR.
+FLORIDA,FL,CITRUS,Central West ISR," Tampa - St. Petersburg - Sarasota, FL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,CLAY,Northeast ISR," Jacksonville, FL - Brunswick, GA DMA"," Jacksonville, FL MSA", Jacksonville Metro GMR.
+FLORIDA,FL,COLLIER,Southwest ISR," Ft. Myers - Naples, FL DMA"," Naples, FL MSA", Other Metro GMR.
+FLORIDA,FL,COLUMBIA,Northeast ISR," Jacksonville, FL - Brunswick, GA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,DADE,Southeast ISR," Miami - Ft. Lauderdale, FL DMA"," Miami, FL PMSA", Miami Metro GMR.
+FLORIDA,FL,DE SOTO,Central West ISR," Ft. Myers - Naples, FL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,DIXIE,Northwest ISR," Gainesville, FL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,DUVAL,Northeast ISR," Jacksonville, FL - Brunswick, GA DMA"," Jacksonville, FL MSA", Jacksonville Metro GMR.
+FLORIDA,FL,ESCAMBIA,Northwest ISR," Mobile, AL - Pensacola, FL - MS DMA"," Pensacola, FL MSA", Other Metro GMR.
+FLORIDA,FL,FLAGLER,Northeast ISR," Orlando - Daytona Beach - Melbourne, FL DMA"," Daytona Beach, FL MSA", Other Metro GMR.
+FLORIDA,FL,FRANKLIN,Northwest ISR," Panama City, FL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,GADSDEN,Northwest ISR," Tallahassee - Thomasville, FL - GA DMA"," Tallahassee, FL MSA", Other Metro GMR.
+FLORIDA,FL,GILCHRIST,Northwest ISR," Gainesville, FL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,GLADES,Southeast ISR," Ft. Myers - Naples, FL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,GULF,Northwest ISR," Panama City, FL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,HAMILTON,Northwest ISR," Tallahassee - Thomasville, FL - GA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,HARDEE,Central ISR," Tampa - St. Petersburg - Sarasota, FL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,HENDRY,Southeast ISR," Ft. Myers - Naples, FL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,HERNANDO,Central West ISR," Tampa - St. Petersburg - Sarasota, FL DMA"," Tampa - St. Petersburg - Clearwater, FL MSA", Tampa-St. Pete Metro GMR.
+FLORIDA,FL,HIGHLANDS,Central ISR," Tampa - St. Petersburg - Sarasota, FL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,HILLSBOROUGH,Central West ISR," Tampa - St. Petersburg - Sarasota, FL DMA"," Tampa - St. Petersburg - Clearwater, FL MSA", Tampa-St. Pete Metro GMR.
+FLORIDA,FL,HOLMES,Northwest ISR," Panama City, FL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,INDIAN RIVER,Central East ISR," West Palm Beach - Ft. Pierce, FL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,JACKSON,Northwest ISR," Panama City, FL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,JEFFERSON,Northwest ISR," Tallahassee - Thomasville, FL - GA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,LAFAYETTE,Northwest ISR," Tallahassee - Thomasville, FL - GA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,LAKE,Central ISR," Orlando - Daytona Beach - Melbourne, FL DMA"," Orlando, FL MSA", Other Metro GMR.
+FLORIDA,FL,LEE,Southwest ISR," Ft. Myers - Naples, FL DMA"," Fort Myers - Cape Coral, FL MSA", Other Metro GMR.
+FLORIDA,FL,LEON,Northwest ISR," Tallahassee - Thomasville, FL - GA DMA"," Tallahassee, FL MSA", Other Metro GMR.
+FLORIDA,FL,LEVY,Northwest ISR," Gainesville, FL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,LIBERTY,Northwest ISR," Panama City, FL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,MADISON,Northwest ISR," Tallahassee - Thomasville, FL - GA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,MANATEE,Central West ISR," Tampa - St. Petersburg - Sarasota, FL DMA"," Sarasota - Bradenton, FL MSA", Other Metro GMR.
+FLORIDA,FL,MARION,Central ISR," Orlando - Daytona Beach - Melbourne, FL DMA"," Ocala, FL MSA", Other Metro GMR.
+FLORIDA,FL,MARTIN,Central East ISR," West Palm Beach - Ft. Pierce, FL DMA"," Fort Pierce - Port St. Lucie, FL MSA", Other Metro GMR.
+FLORIDA,FL,MIAMI-DADE,Southeast ISR," Miami - Ft. Lauderdale, FL DMA"," Miami, FL PMSA", Miami Metro GMR.
+FLORIDA,FL,MONROE,Southwest ISR," Miami - Ft. Lauderdale, FL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,NASSAU,Northeast ISR," Jacksonville, FL - Brunswick, GA DMA"," Jacksonville, FL MSA", Jacksonville Metro GMR.
+FLORIDA,FL,OKALOOSA,Northwest ISR," Mobile, AL - Pensacola, FL - MS DMA"," Fort Walton Beach, FL MSA", Other Metro GMR.
+FLORIDA,FL,OKEECHOBEE,Central East ISR," West Palm Beach - Ft. Pierce, FL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,ORANGE,Central ISR," Orlando - Daytona Beach - Melbourne, FL DMA"," Orlando, FL MSA", Orlando Metro GMR.
+FLORIDA,FL,OSCEOLA,Central ISR," Orlando - Daytona Beach - Melbourne, FL DMA"," Orlando, FL MSA", Orlando Metro GMR.
+FLORIDA,FL,PALM BEACH,Southeast ISR," West Palm Beach - Ft. Pierce, FL DMA"," West Palm Beach - Boca Raton, FL MSA", Other Metro GMR.
+FLORIDA,FL,PASCO,Central West ISR," Tampa - St. Petersburg - Sarasota, FL DMA"," Tampa - St. Petersburg - Clearwater, FL MSA", Tampa-St. Pete Metro GMR.
+FLORIDA,FL,PINELLAS,Central West ISR," Tampa - St. Petersburg - Sarasota, FL DMA"," Tampa - St. Petersburg - Clearwater, FL MSA", Tampa-St. Pete Metro GMR.
+FLORIDA,FL,POLK,Central ISR," Tampa - St. Petersburg - Sarasota, FL DMA"," Lakeland - Winter Haven, FL MSA", Other Metro GMR.
+FLORIDA,FL,PUTNAM,Northeast ISR," Jacksonville, FL - Brunswick, GA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,ST. JOHNS,Northeast ISR," Jacksonville, FL - Brunswick, GA DMA"," Jacksonville, FL MSA", Jacksonville Metro GMR.
+FLORIDA,FL,ST. LUCIE,Central East ISR," West Palm Beach - Ft. Pierce, FL DMA"," Fort Pierce - Port St. Lucie, FL MSA", Other Metro GMR.
+FLORIDA,FL,SANTA ROSA,Northwest ISR," Mobile, AL - Pensacola, FL - MS DMA"," Pensacola, FL MSA", Other Metro GMR.
+FLORIDA,FL,SARASOTA,Central West ISR," Tampa - St. Petersburg - Sarasota, FL DMA"," Sarasota - Bradenton, FL MSA", Other Metro GMR.
+FLORIDA,FL,SEMINOLE,Central ISR," Orlando - Daytona Beach - Melbourne, FL DMA"," Orlando, FL MSA", Orlando Metro GMR.
+FLORIDA,FL,SUMTER,Central ISR," Orlando - Daytona Beach - Melbourne, FL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,SUWANNEE,Northwest ISR," Tallahassee - Thomasville, FL - GA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,TAYLOR,Northwest ISR," Tallahassee - Thomasville, FL - GA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,UNION,Northeast ISR," Jacksonville, FL - Brunswick, GA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,VOLUSIA,Central East ISR," Orlando - Daytona Beach - Melbourne, FL DMA"," Daytona Beach, FL MSA", Other Metro GMR.
+FLORIDA,FL,WAKULLA,Northwest ISR," Tallahassee - Thomasville, FL - GA DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,WALTON,Northwest ISR," Panama City, FL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
+FLORIDA,FL,WASHINGTON,Northwest ISR," Panama City, FL DMA", Not Assigned to Metro Area (NAM), Non Metro GMR.
