@@ -12,4 +12,11 @@ This is my contribution, enjoy.
 usa-tvdma-county.csv is the file that combines all states' data.  
 Also included are each individual states.  
 
-I have not reviewed extensively for errors, so please use at your own risk.  TV DMAs will shift over time.  
+I have not reviewed extensively for errors, so please use at your own risk.  TV DMAs will shift over time.   (in 
+
+
+STATE NOTES:
+----------------------------------------
+
+SD NOTE:  Oglala in some GIS / Shannon in others (in 2015, county name changed)
+
